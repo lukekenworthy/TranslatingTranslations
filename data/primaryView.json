@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "index": 1,
+      "score": 10,
+      "english": "The boy walked to the store.",
+      "spanish": "El chico camin\u00f3 a la tienda."
+    },
+    {
+      "index": 2,
+      "score": 8,
+      "english": "He saw a book.",
+      "spanish": "Vio un libro."
+    },
+    {
+      "index": 3,
+      "score": 9,
+      "english": "He heard a cow.",
+      "spanish": "\u00c9l escuch\u00f3 una vaca."
+    },
+    {
+      "index": 4,
+      "score": 7,
+      "english": "He ate some food.",
+      "spanish": "Comi\u00f3 algo de comida."
+    },
+    {
+      "index": 5,
+      "score": 7,
+      "english": "Then, he left the store.",
+      "spanish": "Luego, sali\u00f3 de la almac\u00e9n."
+    }
+  ]
+}

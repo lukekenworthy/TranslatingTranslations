@@ -1,93 +1,67 @@
 
 // SVG Size
-var width = 700,
-	height = 500;
+var margin = { top: 40, right: 10, bottom: 40, left: 10 };
 
-var padding = 60;
+// var width = document.getElementById("#english-document").clientWidth - margin.left - margin.right,
+//    height = 1000 - margin.top - margin.bottom;
 
+// var englishSvg = d3.select("#english-document").append("svg")
+//     .attr("width", width + margin.left + margin.right)
+//     .attr("height", height + margin.top + margin.bottom)
+//     .append("g")
+//     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+//
+// var spanishSvg = d3.select("#spanish-document").append("svg")
+//     .attr("width", width + margin.left + margin.right)
+//     .attr("height", height + margin.top + margin.bottom)
+//     .append("g")
+//     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-// Load CSV file
-d3.csv("data/wealth-health-2014.csv", function(data){
+loadData();
 
-    //Convert to numeric values when needed
-    data.forEach(function(d) {
-        d.Population = +d.Population;
-        d.LifeExpectancy = +d.LifeExpectancy;
-        d.Income = +d.Income;
-        d.Region = d.Region;
+function loadData() {
+    d3.json("data/primaryView.json", function(primaryView) {
+        sentenceData = primaryView.sentences;
+        updateVisualization();
+    });
+}
+
+function updateVisualization() {
+
+    //show documents in entirety
+    sentenceData.forEach(function(sentence){
+        $('#english-document-p').append(sentence.english + "&nbsp;");
+        $('#spanish-document-p').append(sentence.spanish + "&nbsp;");
     });
 
-    //Sort data by population largest to smallest
-	data.sort(function(a, b) { return b.Population - a.Population;});
+    //Make tables of sentences in order of least similarity
+    var newSentenceData = sentenceData.sort(function(a, b) { return d3.descending(a.score, b.score);});
 
-	// Analyze the dataset in the web console
-	console.log(data);
-	console.log("Countries: " + data.length);
+    newSentenceData.forEach(function(sentence) {
+        var htmlEngl =
+            `
+            <tr>
+                <td class="english-sentence-rankings" id=${"englSentence"+sentence.index}>
+                    ${sentence.index + ") &nbsp;" + sentence.english}
+                </td>
+            </tr>
+        `;
+        var $element = $(htmlEngl);
+        $('#englishSentenceRankings')
+            .append($element);
 
-    var svg = d3.select("#chart-area")
-        .append("svg")
-        .attr("width", width)
-        .attr("height", height);
+        var htmlSpan =
+            `
+            <tr>
+                <td class="spanish-sentence-rankings" id=${"spanSentence"+sentence.index}>
+                    ${sentence.index + ") &nbsp;" + sentence.spanish}
+                </td>
+            </tr>
+        `;
+        var $element = $(htmlSpan);
+        $('#spanishSentenceRankings')
+            .append($element);
 
-    //Create scales
-    var incomeScale = d3.scaleLog()
-        .domain([d3.min(data, function(d) { return d.Income;}), d3.max(data, function(d) {return d.Income;})])
-        .range([padding, width - padding]);
+    });
 
-    var lifeExpectancyScale = d3.scaleLinear()
-        .domain([d3.min(data, function(d) { return d.LifeExpectancy;}) - 20, d3.max(data, function(d) {return d.LifeExpectancy;}) + 20])
-        .range([height - padding, padding]);
-
-    var populationScale = d3.scaleLinear()
-		.domain([d3.min(data, function(d) {return d.Population;}), d3.max(data, function(d) {return d.Population})])
-		.range(["4px", "30px"]);
-
-    var regionScale = d3.scaleOrdinal()
-        .domain(["Europe & Central Asia", "Sub-Saharan Africa", "East Asia & Pacific", "America", "Middle East & North Africa"])
-        .range(["red", "orange", "green", "blue", "purple"]);
-
-    //Check scales
-    console.log(incomeScale(5000));
-    console.log(lifeExpectancyScale(68));
-
-    svg.selectAll("circle")
-		.data(data)
-		.enter()
-		.append("circle")
-		.attr("cx", d => incomeScale(d.Income))
-		.attr("cy", d => lifeExpectancyScale(d.LifeExpectancy))
-		.attr("r", d => populationScale(d.Population))
-		.attr("stroke", "black")
-		.attr("fill", d => regionScale(d.Region));
-
-    //Create Axes
-    var xAxis = d3.axisBottom()
-        .scale(incomeScale)
-        .ticks("10", "t")
-        .tickSize(5, 0);
-
-    var yAxis = d3.axisLeft()
-		.scale(lifeExpectancyScale);
-
-    svg.append("g")
-        .attr("class", "axis x-axis")
-        .attr("transform", "translate(0," + (height - padding) + ")")
-        .call(xAxis);
-
-    svg.append("g")
-		.attr("class", "axis y-axis")
-		.attr("transform", "translate(" + padding+",0)")
-		.call(yAxis);
-
-    svg.append("text")
-        .attr("text-anchor", "middle")
-        .attr("transform", "translate("+ (padding/4) +","+(height/2)+")rotate(-90)")
-        .text("Life Expectancy");
-
-    svg.append("text")
-        .attr("text-anchor", "middle")
-        .attr("transform", "translate("+ (width/2) +","+(height-(padding/4))+")")  // centre below axis
-        .text("Income");
-
-});
-
+}

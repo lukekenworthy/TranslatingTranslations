@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>CS171 - Health &amp; Wealth of Nations</title>
+	<title>TranslatingTranslations</title>
 
 	<!-- Load CSS files -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -14,10 +14,29 @@
 
 	<div class="container">
 
-		<h1>Wealth &amp; Health of Nations</h1>
+		<h1>Translating Translations</h1>
+		<h2>By Luke Kenworthy and Emily Shoemaker</h2>
 
-		<!-- Parent container for the scatterplot -->
-		<div id="chart-area"></div>
+		<!-- show full documents -->
+		<div class="row">
+			<div class="col-sm-6 title">English</div>
+			<div class="col-sm-6 title">Spanish</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-2">
+				<table id="englishSentenceRankings"></table>
+			</div>
+			<div class="col-sm-4">
+				<p id="english-document-p"></p>
+			</div>
+			<div class="col-sm-4">
+				<p id="spanish-document-p"></p>
+			</div>
+			<div class="col-sm-2">
+				<table id="spanishSentenceRankings"></table>
+			</div>
+		</div>
 
 	</div>
 
@@ -28,7 +47,7 @@
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/d3.min.js"></script>
 
-	<!-- Scatterplot implementation -->
+	<!--  implementation -->
 	<script src="js/main.js"></script>
 
 </body>
