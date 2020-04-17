@@ -1,32 +1,36 @@
 
-// SVG Size
-var margin = { top: 40, right: 10, bottom: 40, left: 10 };
+queue()
+    .defer(d3.json,"data/primaryView.json")
+    .defer(d3.json,"data/secondaryView.json")
+    //.defer(d3.json,"data/tertiaryView.json")
+    .await(createVis);
 
-// var width = document.getElementById("#english-document").clientWidth - margin.left - margin.right,
-//    height = 1000 - margin.top - margin.bottom;
+function createVis(error, primaryView, secondaryView) { //}, tertiaryView) {
+    if(error) { console.log(error);}
 
-// var englishSvg = d3.select("#english-document").append("svg")
-//     .attr("width", width + margin.left + margin.right)
-//     .attr("height", height + margin.top + margin.bottom)
-//     .append("g")
-//     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-//
-// var spanishSvg = d3.select("#spanish-document").append("svg")
-//     .attr("width", width + margin.left + margin.right)
-//     .attr("height", height + margin.top + margin.bottom)
-//     .append("g")
-//     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    sentenceData = primaryView.sentences;
+    primaryViewVisualization();
 
-loadData();
 
-function loadData() {
-    d3.json("data/primaryView.json", function(primaryView) {
-        sentenceData = primaryView.sentences;
-        updateVisualization();
-    });
+    //Secondary View
+    secondaryDataEnglish = secondaryView.english;
+    secondaryDataSpanish = secondaryView.spanish;
+
+    var curSentenceEnglish = ["light", "of", "the"];
+    var curSentenceSpanish = ["luz", "de", "la"];
+
+    //Get data for the sentence
+
+    var secondaryViewEnglish = new SecondaryView("secondaryViewEnglish", secondaryDataEnglish, curSentenceEnglish);
+    var secondaryViewSpanish = new SecondaryView("secondaryViewSpanish", secondaryDataSpanish, curSentenceSpanish);
+
+
+    //Tertiary View
+    // tertiaryData = tertiaryView.spanish;
+    // tertiaryViewVisualization();
 }
 
-function updateVisualization() {
+function primaryViewVisualization() {
 
     //show documents in entirety
     sentenceData.forEach(function(sentence){
@@ -35,14 +39,15 @@ function updateVisualization() {
     });
 
     //Make tables of sentences in order of least similarity
-    var newSentenceData = sentenceData.sort(function(a, b) { return d3.descending(a.score, b.score);});
+    var newSentenceData = sentenceData.sort(function(a, b) { return d3.ascending(a.score, b.score);});
+    var ind = 1;
 
     newSentenceData.forEach(function(sentence) {
         var htmlEngl =
             `
             <tr>
                 <td class="english-sentence-rankings" id=${"englSentence"+sentence.index}>
-                    ${sentence.index + ") &nbsp;" + sentence.english}
+                    ${ind + ") &nbsp;" + sentence.english}
                 </td>
             </tr>
         `;
@@ -54,7 +59,7 @@ function updateVisualization() {
             `
             <tr>
                 <td class="spanish-sentence-rankings" id=${"spanSentence"+sentence.index}>
-                    ${sentence.index + ") &nbsp;" + sentence.spanish}
+                    ${ind + ") &nbsp;" + sentence.spanish}
                 </td>
             </tr>
         `;
@@ -62,6 +67,12 @@ function updateVisualization() {
         $('#spanishSentenceRankings')
             .append($element);
 
+        ind++;
     });
+}
+
+
+
+function tertiaryViewVisualization() {
 
 }

@@ -1,0 +1,7093 @@
+{ "english": [
+  {
+    "word": "the",
+    "neighborWords": [
+      "light",
+      "of",
+      "faith",
+      "this",
+      "is",
+      "how",
+      "church’s",
+      "tradition",
+      "speaks",
+      "great",
+      "gift",
+      "brought",
+      "as",
+      "into",
+      "world",
+      "that",
+      "whoever",
+      "saint",
+      "paul",
+      "uses",
+      "same",
+      "image",
+      "god",
+      "in",
+      "our",
+      "hearts",
+      "pagan",
+      "which",
+      "had",
+      "seen",
+      "growth",
+      "the",
+      "cult",
+      "sun",
+      "sol",
+      "sunrise",
+      "yet",
+      "though",
+      "was",
+      "born",
+      "human",
+      "existence",
+      "does",
+      "not",
+      "cannot",
+      "penetrate",
+      "to",
+      "shadow",
+      "death",
+      "place",
+      "where",
+      "men’s",
+      "his",
+      "conscious",
+      "immense",
+      "horizon",
+      "invoked",
+      "jesus",
+      "true",
+      "whose",
+      "martha",
+      "weeping",
+      "for",
+      "her",
+      "you",
+      "would",
+      "see",
+      "glory",
+      "it",
+      "comes",
+      "from",
+      "risen",
+      "christ",
+      "morning",
+      "star"
+    ],
+    "neighborCounts": [
+      3,
+      13,
+      2,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      2,
+      1,
+      1,
+      1,
+      3,
+      1,
+      1,
+      2,
+      6,
+      2,
+      6,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      3,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "light",
+    "neighborWords": [
+      "the",
+      "of",
+      "faith",
+      "this",
+      "have",
+      "come",
+      "as",
+      "into",
+      "world",
+      "who",
+      "said",
+      "‘let",
+      "shine",
+      "out",
+      "which",
+      "hungered",
+      "for",
+      "had",
+      "seen",
+      "casting",
+      "its",
+      "on",
+      "all",
+      "closed",
+      "to",
+      "no",
+      "one",
+      "saint",
+      "see",
+      "with",
+      "a",
+      "that",
+      "illumines",
+      "their"
+    ],
+    "neighborCounts": [
+      3,
+      4,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "of",
+    "neighborWords": [
+      "the",
+      "light",
+      "faith",
+      "this",
+      "is",
+      "church’s",
+      "tradition",
+      "speaks",
+      "great",
+      "gift",
+      "gospel",
+      "christ",
+      "says",
+      "himself",
+      "i",
+      "have",
+      "shine",
+      "out",
+      "darkness’",
+      "has",
+      "shone",
+      "seen",
+      "growth",
+      "cult",
+      "of",
+      "sun",
+      "god",
+      "was",
+      "clearly",
+      "incapable",
+      "casting",
+      "its",
+      "on",
+      "all",
+      "human",
+      "existence",
+      "to",
+      "shadow",
+      "death",
+      "place",
+      "conscious",
+      "immense",
+      "horizon",
+      "for",
+      "her",
+      "brother",
+      "lazarus",
+      "see",
+      "glory",
+      "those",
+      "who"
+    ],
+    "neighborCounts": [
+      13,
+      4,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "faith",
+    "neighborWords": [
+      "the",
+      "light",
+      "of",
+      "this",
+      "is",
+      "how",
+      "die",
+      "for",
+      "his",
+      "in",
+      "sun",
+      "horizon",
+      "which",
+      "their",
+      "opened",
+      "before",
+      "them"
+    ],
+    "neighborCounts": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "this",
+    "neighborWords": [
+      "light",
+      "of",
+      "faith",
+      "is",
+      "how",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "is",
+    "neighborWords": [
+      "of",
+      "faith",
+      "this",
+      "how",
+      "the",
+      "church’s"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "how",
+    "neighborWords": [
+      "faith",
+      "this",
+      "is",
+      "the",
+      "church’s",
+      "tradition"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "church’s",
+    "neighborWords": [
+      "is",
+      "how",
+      "the",
+      "tradition",
+      "speaks",
+      "of"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "tradition",
+    "neighborWords": [
+      "how",
+      "the",
+      "church’s",
+      "speaks",
+      "of"
+    ],
+    "neighborCounts": [
+      1,
+      2,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "speaks",
+    "neighborWords": [
+      "the",
+      "church’s",
+      "tradition",
+      "of",
+      "great"
+    ],
+    "neighborCounts": [
+      2,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "great",
+    "neighborWords": [
+      "speaks",
+      "of",
+      "the",
+      "gift",
+      "brought",
+      "by"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "gift",
+    "neighborWords": [
+      "of",
+      "the",
+      "great",
+      "brought",
+      "by",
+      "jesus"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "brought",
+    "neighborWords": [
+      "the",
+      "great",
+      "gift",
+      "by",
+      "jesus",
+      "in"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "by",
+    "neighborWords": [
+      "great",
+      "gift",
+      "brought",
+      "jesus",
+      "in",
+      "john’s"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "jesus",
+    "neighborWords": [
+      "gift",
+      "brought",
+      "by",
+      "in",
+      "john’s",
+      "gospel",
+      "them",
+      "christians",
+      "invoked",
+      "as",
+      "the",
+      "true",
+      "her",
+      "brother",
+      "lazarus",
+      "said",
+      "did",
+      "i"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "in",
+    "neighborWords": [
+      "brought",
+      "by",
+      "jesus",
+      "john’s",
+      "gospel",
+      "christ",
+      "that",
+      "whoever",
+      "believes",
+      "me",
+      "may",
+      "not",
+      "remain",
+      "darkness",
+      "saint",
+      "paul",
+      "darkness’",
+      "has",
+      "shone",
+      "our",
+      "hearts",
+      "the",
+      "for",
+      "his",
+      "faith",
+      "sun",
+      "conscious"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "john’s",
+    "neighborWords": [
+      "by",
+      "jesus",
+      "in",
+      "gospel",
+      "christ",
+      "says"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "gospel",
+    "neighborWords": [
+      "jesus",
+      "in",
+      "john’s",
+      "christ",
+      "says",
+      "of"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "christ",
+    "neighborWords": [
+      "in",
+      "john’s",
+      "gospel",
+      "says",
+      "of",
+      "himself",
+      "from",
+      "the",
+      "risen",
+      "morning",
+      "star"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "says",
+    "neighborWords": [
+      "john’s",
+      "gospel",
+      "christ",
+      "of",
+      "himself",
+      "i"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "himself",
+    "neighborWords": [
+      "christ",
+      "says",
+      "of",
+      "i",
+      "have",
+      "come"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "i",
+    "neighborWords": [
+      "says",
+      "of",
+      "himself",
+      "have",
+      "come",
+      "as",
+      "jesus",
+      "said",
+      "did",
+      "not",
+      "tell",
+      "you"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "have",
+    "neighborWords": [
+      "of",
+      "himself",
+      "i",
+      "come",
+      "as",
+      "light"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "come",
+    "neighborWords": [
+      "himself",
+      "i",
+      "have",
+      "as",
+      "light",
+      "into"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "as",
+    "neighborWords": [
+      "i",
+      "have",
+      "come",
+      "light",
+      "into",
+      "the",
+      "christians",
+      "invoked",
+      "jesus",
+      "true",
+      "sun"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "into",
+    "neighborWords": [
+      "come",
+      "as",
+      "light",
+      "the",
+      "world",
+      "that"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "world",
+    "neighborWords": [
+      "light",
+      "into",
+      "the",
+      "that",
+      "whoever",
+      "believes",
+      "hearts",
+      "pagan",
+      "which",
+      "hungered",
+      "for"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "that",
+    "neighborWords": [
+      "into",
+      "the",
+      "world",
+      "whoever",
+      "believes",
+      "in",
+      "not",
+      "tell",
+      "you",
+      "if",
+      "believed",
+      "with",
+      "a",
+      "light",
+      "illumines",
+      "their",
+      "entire"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "whoever",
+    "neighborWords": [
+      "the",
+      "world",
+      "that",
+      "believes",
+      "in",
+      "me"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "believes",
+    "neighborWords": [
+      "world",
+      "that",
+      "whoever",
+      "in",
+      "me",
+      "may"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "me",
+    "neighborWords": [
+      "whoever",
+      "believes",
+      "in",
+      "may",
+      "not",
+      "remain"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "may",
+    "neighborWords": [
+      "believes",
+      "in",
+      "me",
+      "not",
+      "remain"
+    ],
+    "neighborCounts": [
+      1,
+      2,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "not",
+    "neighborWords": [
+      "in",
+      "me",
+      "may",
+      "remain",
+      "darkness",
+      "the",
+      "sun",
+      "does",
+      "illumine",
+      "all",
+      "reality",
+      "said",
+      "did",
+      "i",
+      "tell",
+      "you",
+      "that"
+    ],
+    "neighborCounts": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "remain",
+    "neighborWords": [
+      "me",
+      "may",
+      "not",
+      "in",
+      "darkness",
+      "saint"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "darkness",
+    "neighborWords": [
+      "not",
+      "remain",
+      "in",
+      "saint",
+      "paul",
+      "uses"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "saint",
+    "neighborWords": [
+      "remain",
+      "in",
+      "darkness",
+      "paul",
+      "uses",
+      "the",
+      "light",
+      "no",
+      "one",
+      "justin",
+      "martyr",
+      "writes"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "paul",
+    "neighborWords": [
+      "in",
+      "darkness",
+      "saint",
+      "uses",
+      "the",
+      "same"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "uses",
+    "neighborWords": [
+      "darkness",
+      "saint",
+      "paul",
+      "the",
+      "same",
+      "image"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "same",
+    "neighborWords": [
+      "paul",
+      "uses",
+      "the",
+      "image",
+      "god",
+      "who"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "image",
+    "neighborWords": [
+      "uses",
+      "the",
+      "same",
+      "god",
+      "who",
+      "said"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "god",
+    "neighborWords": [
+      "the",
+      "same",
+      "image",
+      "who",
+      "said",
+      "‘let",
+      "of",
+      "sun",
+      "sol",
+      "invictus",
+      "invoked",
+      "glory",
+      "those",
+      "believe"
+    ],
+    "neighborCounts": [
+      3,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "who",
+    "neighborWords": [
+      "same",
+      "image",
+      "god",
+      "said",
+      "‘let",
+      "light",
+      "of",
+      "those",
+      "believe",
+      "see",
+      "they"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "said",
+    "neighborWords": [
+      "image",
+      "god",
+      "who",
+      "‘let",
+      "light",
+      "shine",
+      "brother",
+      "lazarus",
+      "jesus",
+      "did",
+      "i",
+      "not"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "‘let",
+    "neighborWords": [
+      "god",
+      "who",
+      "said",
+      "light",
+      "shine",
+      "out"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "shine",
+    "neighborWords": [
+      "said",
+      "‘let",
+      "light",
+      "out",
+      "of",
+      "darkness’"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "out",
+    "neighborWords": [
+      "‘let",
+      "light",
+      "shine",
+      "of",
+      "darkness’",
+      "has"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "darkness’",
+    "neighborWords": [
+      "shine",
+      "out",
+      "of",
+      "has",
+      "shone",
+      "in"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "has",
+    "neighborWords": [
+      "out",
+      "of",
+      "darkness’",
+      "shone",
+      "in",
+      "our",
+      "justin",
+      "martyr",
+      "writes",
+      "ever",
+      "been",
+      "ready"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "shone",
+    "neighborWords": [
+      "of",
+      "darkness’",
+      "has",
+      "in",
+      "our",
+      "hearts"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "our",
+    "neighborWords": [
+      "has",
+      "shone",
+      "in",
+      "hearts",
+      "the",
+      "pagan"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "hearts",
+    "neighborWords": [
+      "shone",
+      "in",
+      "our",
+      "the",
+      "pagan",
+      "world"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "pagan",
+    "neighborWords": [
+      "our",
+      "hearts",
+      "the",
+      "world",
+      "which",
+      "hungered"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "which",
+    "neighborWords": [
+      "the",
+      "pagan",
+      "world",
+      "hungered",
+      "for",
+      "light",
+      "immense",
+      "horizon",
+      "their",
+      "faith",
+      "opened",
+      "morning",
+      "star",
+      "never",
+      "sets"
+    ],
+    "neighborCounts": [
+      3,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "hungered",
+    "neighborWords": [
+      "pagan",
+      "world",
+      "which",
+      "for",
+      "light",
+      "had"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "for",
+    "neighborWords": [
+      "world",
+      "which",
+      "hungered",
+      "light",
+      "had",
+      "seen",
+      "ready",
+      "to",
+      "die",
+      "his",
+      "faith",
+      "in",
+      "martha",
+      "weeping",
+      "the",
+      "death",
+      "of",
+      "their",
+      "entire",
+      "journey",
+      "it",
+      "comes",
+      "from"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "had",
+    "neighborWords": [
+      "hungered",
+      "for",
+      "light",
+      "seen",
+      "the",
+      "growth"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "seen",
+    "neighborWords": [
+      "for",
+      "light",
+      "had",
+      "the",
+      "growth",
+      "of"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "growth",
+    "neighborWords": [
+      "had",
+      "seen",
+      "the",
+      "of",
+      "cult"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "cult",
+    "neighborWords": [
+      "growth",
+      "of",
+      "the",
+      "sun"
+    ],
+    "neighborCounts": [
+      1,
+      2,
+      2,
+      1
+    ]
+  },
+  {
+    "word": "sun",
+    "neighborWords": [
+      "cult",
+      "of",
+      "the",
+      "god",
+      "sol",
+      "invictus",
+      "yet",
+      "though",
+      "was",
+      "born",
+      "anew",
+      "human",
+      "existence",
+      "does",
+      "not",
+      "illumine",
+      "faith",
+      "in",
+      "conscious",
+      "as",
+      "true",
+      "whose",
+      "rays",
+      "bestow"
+    ],
+    "neighborCounts": [
+      1,
+      2,
+      6,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "sol",
+    "neighborWords": [
+      "the",
+      "sun",
+      "god",
+      "invictus",
+      "invoked",
+      "each"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "invictus",
+    "neighborWords": [
+      "sun",
+      "god",
+      "sol",
+      "invoked",
+      "each",
+      "day"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "invoked",
+    "neighborWords": [
+      "god",
+      "sol",
+      "invictus",
+      "each",
+      "day",
+      "at",
+      "before",
+      "them",
+      "christians",
+      "jesus",
+      "as",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "each",
+    "neighborWords": [
+      "sol",
+      "invictus",
+      "invoked",
+      "day",
+      "at",
+      "sunrise",
+      "was",
+      "born",
+      "anew",
+      "morning",
+      "it"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "day",
+    "neighborWords": [
+      "invictus",
+      "invoked",
+      "each",
+      "at",
+      "sunrise",
+      "yet"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "at",
+    "neighborWords": [
+      "invoked",
+      "each",
+      "day",
+      "sunrise",
+      "yet",
+      "though"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "sunrise",
+    "neighborWords": [
+      "each",
+      "day",
+      "at",
+      "yet",
+      "though",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "yet",
+    "neighborWords": [
+      "day",
+      "at",
+      "sunrise",
+      "though",
+      "the",
+      "sun"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "though",
+    "neighborWords": [
+      "at",
+      "sunrise",
+      "yet",
+      "the",
+      "sun",
+      "was"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "was",
+    "neighborWords": [
+      "though",
+      "the",
+      "sun",
+      "born",
+      "anew",
+      "each",
+      "morning",
+      "it",
+      "clearly",
+      "incapable",
+      "of"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "born",
+    "neighborWords": [
+      "the",
+      "sun",
+      "was",
+      "anew",
+      "each",
+      "morning"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "anew",
+    "neighborWords": [
+      "sun",
+      "was",
+      "born",
+      "each",
+      "morning",
+      "it"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "morning",
+    "neighborWords": [
+      "born",
+      "anew",
+      "each",
+      "it",
+      "was",
+      "clearly",
+      "risen",
+      "christ",
+      "the",
+      "star",
+      "which",
+      "never"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "it",
+    "neighborWords": [
+      "anew",
+      "each",
+      "morning",
+      "was",
+      "clearly",
+      "incapable",
+      "entire",
+      "journey",
+      "for",
+      "comes",
+      "from",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "clearly",
+    "neighborWords": [
+      "morning",
+      "it",
+      "was",
+      "incapable",
+      "of",
+      "casting"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "incapable",
+    "neighborWords": [
+      "it",
+      "was",
+      "clearly",
+      "of",
+      "casting",
+      "its"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "casting",
+    "neighborWords": [
+      "clearly",
+      "incapable",
+      "of",
+      "its",
+      "light",
+      "on"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "its",
+    "neighborWords": [
+      "incapable",
+      "of",
+      "casting",
+      "light",
+      "on",
+      "all",
+      "illumine",
+      "reality",
+      "rays",
+      "cannot",
+      "penetrate",
+      "are",
+      "closed",
+      "to",
+      "no",
+      "one"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "on",
+    "neighborWords": [
+      "casting",
+      "its",
+      "light",
+      "all",
+      "of",
+      "human"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "all",
+    "neighborWords": [
+      "its",
+      "light",
+      "on",
+      "of",
+      "human",
+      "existence",
+      "does",
+      "not",
+      "illumine",
+      "reality",
+      "rays"
+    ],
+    "neighborCounts": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "human",
+    "neighborWords": [
+      "on",
+      "all",
+      "of",
+      "existence",
+      "the",
+      "sun"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "existence",
+    "neighborWords": [
+      "all",
+      "of",
+      "human",
+      "the",
+      "sun",
+      "does"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "does",
+    "neighborWords": [
+      "existence",
+      "the",
+      "sun",
+      "not",
+      "illumine",
+      "all"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "illumine",
+    "neighborWords": [
+      "sun",
+      "does",
+      "not",
+      "all",
+      "reality",
+      "its"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "reality",
+    "neighborWords": [
+      "not",
+      "illumine",
+      "all",
+      "its",
+      "rays",
+      "cannot"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "rays",
+    "neighborWords": [
+      "all",
+      "reality",
+      "its",
+      "cannot",
+      "penetrate",
+      "to",
+      "true",
+      "sun",
+      "whose",
+      "bestow",
+      "life"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "cannot",
+    "neighborWords": [
+      "reality",
+      "its",
+      "rays",
+      "penetrate",
+      "to",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "penetrate",
+    "neighborWords": [
+      "its",
+      "rays",
+      "cannot",
+      "to",
+      "the",
+      "shadow"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "to",
+    "neighborWords": [
+      "rays",
+      "cannot",
+      "penetrate",
+      "the",
+      "shadow",
+      "of",
+      "eyes",
+      "are",
+      "closed",
+      "its",
+      "light",
+      "no",
+      "ever",
+      "been",
+      "ready",
+      "die",
+      "for",
+      "his",
+      "bestow",
+      "life",
+      "martha",
+      "weeping"
+    ],
+    "neighborCounts": [
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "shadow",
+    "neighborWords": [
+      "penetrate",
+      "to",
+      "the",
+      "of",
+      "death"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "death",
+    "neighborWords": [
+      "the",
+      "shadow",
+      "of",
+      "place",
+      "where",
+      "weeping",
+      "for",
+      "her",
+      "brother"
+    ],
+    "neighborCounts": [
+      3,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "place",
+    "neighborWords": [
+      "of",
+      "death",
+      "the",
+      "where",
+      "men’s",
+      "eyes"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "where",
+    "neighborWords": [
+      "death",
+      "the",
+      "place",
+      "men’s",
+      "eyes",
+      "are"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "men’s",
+    "neighborWords": [
+      "the",
+      "place",
+      "where",
+      "eyes",
+      "are",
+      "closed"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "eyes",
+    "neighborWords": [
+      "place",
+      "where",
+      "men’s",
+      "are",
+      "closed",
+      "to"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "are",
+    "neighborWords": [
+      "where",
+      "men’s",
+      "eyes",
+      "closed",
+      "to",
+      "its"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "closed",
+    "neighborWords": [
+      "men’s",
+      "eyes",
+      "are",
+      "to",
+      "its",
+      "light"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "no",
+    "neighborWords": [
+      "to",
+      "its",
+      "light",
+      "one",
+      "saint",
+      "justin"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "one",
+    "neighborWords": [
+      "its",
+      "light",
+      "no",
+      "saint",
+      "justin",
+      "martyr"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "justin",
+    "neighborWords": [
+      "no",
+      "one",
+      "saint",
+      "martyr",
+      "writes",
+      "has"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "martyr",
+    "neighborWords": [
+      "one",
+      "saint",
+      "justin",
+      "writes",
+      "has",
+      "ever"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "writes",
+    "neighborWords": [
+      "saint",
+      "justin",
+      "martyr",
+      "has",
+      "ever",
+      "been"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "ever",
+    "neighborWords": [
+      "martyr",
+      "writes",
+      "has",
+      "been",
+      "ready",
+      "to"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "been",
+    "neighborWords": [
+      "writes",
+      "has",
+      "ever",
+      "ready",
+      "to",
+      "die"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "ready",
+    "neighborWords": [
+      "has",
+      "ever",
+      "been",
+      "to",
+      "die",
+      "for"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "die",
+    "neighborWords": [
+      "been",
+      "ready",
+      "to",
+      "for",
+      "his",
+      "faith"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "his",
+    "neighborWords": [
+      "to",
+      "die",
+      "for",
+      "faith",
+      "in",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "conscious",
+    "neighborWords": [
+      "in",
+      "the",
+      "sun",
+      "of",
+      "immense"
+    ],
+    "neighborCounts": [
+      1,
+      2,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "immense",
+    "neighborWords": [
+      "conscious",
+      "of",
+      "the",
+      "horizon",
+      "which",
+      "their"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "horizon",
+    "neighborWords": [
+      "of",
+      "the",
+      "immense",
+      "which",
+      "their",
+      "faith"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "their",
+    "neighborWords": [
+      "immense",
+      "horizon",
+      "which",
+      "faith",
+      "opened",
+      "before",
+      "light",
+      "that",
+      "illumines",
+      "entire",
+      "journey",
+      "for"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "opened",
+    "neighborWords": [
+      "which",
+      "their",
+      "faith",
+      "before",
+      "them",
+      "christians"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "before",
+    "neighborWords": [
+      "their",
+      "faith",
+      "opened",
+      "them",
+      "christians",
+      "invoked"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "them",
+    "neighborWords": [
+      "faith",
+      "opened",
+      "before",
+      "christians",
+      "invoked",
+      "jesus"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "christians",
+    "neighborWords": [
+      "opened",
+      "before",
+      "them",
+      "invoked",
+      "jesus",
+      "as"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "true",
+    "neighborWords": [
+      "jesus",
+      "as",
+      "the",
+      "sun",
+      "whose",
+      "rays"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "whose",
+    "neighborWords": [
+      "the",
+      "true",
+      "sun",
+      "rays",
+      "bestow",
+      "life"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "bestow",
+    "neighborWords": [
+      "sun",
+      "whose",
+      "rays",
+      "life",
+      "to",
+      "martha"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "life",
+    "neighborWords": [
+      "whose",
+      "rays",
+      "bestow",
+      "to",
+      "martha",
+      "weeping"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "martha",
+    "neighborWords": [
+      "bestow",
+      "life",
+      "to",
+      "weeping",
+      "for",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "weeping",
+    "neighborWords": [
+      "life",
+      "to",
+      "martha",
+      "for",
+      "the",
+      "death"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "her",
+    "neighborWords": [
+      "the",
+      "death",
+      "of",
+      "brother",
+      "lazarus",
+      "jesus"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "brother",
+    "neighborWords": [
+      "death",
+      "of",
+      "her",
+      "lazarus",
+      "jesus",
+      "said"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "lazarus",
+    "neighborWords": [
+      "of",
+      "her",
+      "brother",
+      "jesus",
+      "said",
+      "did"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "did",
+    "neighborWords": [
+      "lazarus",
+      "jesus",
+      "said",
+      "i",
+      "not",
+      "tell"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "tell",
+    "neighborWords": [
+      "did",
+      "i",
+      "not",
+      "you",
+      "that",
+      "if"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "you",
+    "neighborWords": [
+      "i",
+      "not",
+      "tell",
+      "that",
+      "if",
+      "you",
+      "believed",
+      "would",
+      "see",
+      "the"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      2,
+      3,
+      4,
+      2,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "if",
+    "neighborWords": [
+      "tell",
+      "you",
+      "that",
+      "believed"
+    ],
+    "neighborCounts": [
+      1,
+      3,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "believed",
+    "neighborWords": [
+      "that",
+      "if",
+      "you",
+      "would",
+      "see"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "would",
+    "neighborWords": [
+      "you",
+      "believed",
+      "see",
+      "the",
+      "glory"
+    ],
+    "neighborCounts": [
+      2,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "see",
+    "neighborWords": [
+      "believed",
+      "you",
+      "would",
+      "the",
+      "glory",
+      "of",
+      "those",
+      "who",
+      "believe",
+      "they",
+      "see",
+      "with",
+      "a",
+      "light"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "glory",
+    "neighborWords": [
+      "would",
+      "see",
+      "the",
+      "of",
+      "god",
+      "those"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "those",
+    "neighborWords": [
+      "glory",
+      "of",
+      "god",
+      "who",
+      "believe",
+      "see"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "believe",
+    "neighborWords": [
+      "god",
+      "those",
+      "who",
+      "see",
+      "they"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "word": "they",
+    "neighborWords": [
+      "who",
+      "believe",
+      "see",
+      "with",
+      "a"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "with",
+    "neighborWords": [
+      "see",
+      "they",
+      "a",
+      "light",
+      "that"
+    ],
+    "neighborCounts": [
+      2,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "a",
+    "neighborWords": [
+      "they",
+      "see",
+      "with",
+      "light",
+      "that",
+      "illumines"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "illumines",
+    "neighborWords": [
+      "a",
+      "light",
+      "that",
+      "their",
+      "entire",
+      "journey"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "entire",
+    "neighborWords": [
+      "that",
+      "illumines",
+      "their",
+      "journey",
+      "for",
+      "it"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "journey",
+    "neighborWords": [
+      "illumines",
+      "their",
+      "entire",
+      "for",
+      "it",
+      "comes"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "comes",
+    "neighborWords": [
+      "journey",
+      "for",
+      "it",
+      "from",
+      "the",
+      "risen"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "from",
+    "neighborWords": [
+      "for",
+      "it",
+      "comes",
+      "the",
+      "risen",
+      "christ"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "risen",
+    "neighborWords": [
+      "comes",
+      "from",
+      "the",
+      "christ",
+      "morning"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "star",
+    "neighborWords": [
+      "christ",
+      "the",
+      "morning",
+      "which",
+      "never",
+      "sets"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "never",
+    "neighborWords": [
+      "morning",
+      "star",
+      "which",
+      "sets"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "word": "sets",
+    "neighborWords": [
+      "star",
+      "which",
+      "never"
+    ],
+    "neighborCounts": [
+      1,
+      1,
+      1
+    ]
+  }
+],
+  "spanish": [
+    {
+      "word": "la",
+      "neighborWords": [
+        "luz",
+        "de",
+        "la",
+        "fe",
+        "tradición",
+        "iglesia",
+        "ha",
+        "indicado",
+        "que",
+        "dijo",
+        "“brille",
+        "del",
+        "seno",
+        "sobre",
+        "toda",
+        "existencia",
+        "hombre",
+        "no",
+        "ilumina",
+        "realidad",
+        "sus",
+        "rayos",
+        "las",
+        "sombras",
+        "muerte",
+        "allí",
+        "donde",
+        "vasto",
+        "horizonte",
+        "les",
+        "abría",
+        "cuyos",
+        "dan",
+        "vida",
+        "a",
+        "marta",
+        "llora",
+        "su",
+        "si",
+        "crees",
+        "verás",
+        "gloria",
+        "dios",
+        "resucitado",
+        "estrella",
+        "mañana"
+      ],
+      "neighborCounts": [
+        4,
+        9,
+        6,
+        3,
+        3,
+        1,
+        1,
+        1,
+        4,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "luz",
+      "neighborWords": [
+        "la",
+        "de",
+        "fe",
+        "al",
+        "mundo",
+        "como",
+        "y",
+        "así",
+        "el",
+        "dijo",
+        "“brille",
+        "del",
+        "seno",
+        "pagano",
+        "hambriento",
+        "se",
+        "había",
+        "desarrollado",
+        "podía",
+        "irradiar",
+        "su",
+        "sobre",
+        "toda",
+        "cierran",
+        "a",
+        "no",
+        "ve",
+        "con",
+        "una",
+        "que",
+        "ilumina",
+        "todo"
+      ],
+      "neighborCounts": [
+        4,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "de",
+      "neighborWords": [
+        "la",
+        "luz",
+        "fe",
+        "tradición",
+        "iglesia",
+        "ha",
+        "en",
+        "el",
+        "evangelio",
+        "san",
+        "juan",
+        "se",
+        "del",
+        "seno",
+        "las",
+        "tinieblas”",
+        "mundo",
+        "pagano",
+        "hambriento",
+        "había",
+        "hasta",
+        "sombras",
+        "muerte",
+        "allí",
+        "llora",
+        "su",
+        "hermano",
+        "lázaro",
+        "verás",
+        "gloria",
+        "dios",
+        "quien",
+        "cree",
+        "cristo",
+        "resucitado",
+        "estrella",
+        "mañana",
+        "que"
+      ],
+      "neighborCounts": [
+        9,
+        3,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "fe",
+      "neighborWords": [
+        "luz",
+        "de",
+        "la",
+        "tradición",
+        "morir",
+        "por",
+        "su",
+        "en",
+        "el",
+        "sol",
+        "horizonte",
+        "que",
+        "les",
+        "abría",
+        "los"
+      ],
+      "neighborCounts": [
+        1,
+        2,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "tradición",
+      "neighborWords": [
+        "la",
+        "fe",
+        "de",
+        "iglesia"
+      ],
+      "neighborCounts": [
+        3,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "iglesia",
+      "neighborWords": [
+        "tradición",
+        "de",
+        "la",
+        "ha",
+        "indicado",
+        "con"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "ha",
+      "neighborWords": [
+        "de",
+        "la",
+        "iglesia",
+        "indicado",
+        "con",
+        "esta",
+        "las",
+        "tinieblas”",
+        "brillado",
+        "en",
+        "nuestros"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "indicado",
+      "neighborWords": [
+        "la",
+        "iglesia",
+        "ha",
+        "con",
+        "esta",
+        "expresión"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "con",
+      "neighborWords": [
+        "iglesia",
+        "ha",
+        "indicado",
+        "esta",
+        "expresión",
+        "el",
+        "juan",
+        "se",
+        "presenta",
+        "estas",
+        "palabras",
+        "yo",
+        "cree",
+        "ve",
+        "una",
+        "luz",
+        "que"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "esta",
+      "neighborWords": [
+        "ha",
+        "indicado",
+        "con",
+        "expresión",
+        "el",
+        "gran"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "expresión",
+      "neighborWords": [
+        "indicado",
+        "con",
+        "esta",
+        "el",
+        "gran",
+        "don"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "el",
+      "neighborWords": [
+        "con",
+        "esta",
+        "expresión",
+        "gran",
+        "don",
+        "traído",
+        "jesucristo",
+        "que",
+        "en",
+        "evangelio",
+        "de",
+        "san",
+        "luz",
+        "y",
+        "así",
+        "cree",
+        "mismos",
+        "términos",
+        "pues",
+        "dios",
+        "dijo",
+        "corazones",
+        "co",
+        "mundo",
+        "pagano",
+        "hambriento",
+        "se",
+        "había",
+        "desarrollado",
+        "culto",
+        "al",
+        "sol",
+        "del",
+        "hombre",
+        "no",
+        "ilumina",
+        "su",
+        "fe",
+        "decía",
+        "llamaron",
+        "a",
+        "cristo",
+        "verdadero",
+        "cuyos",
+        "todo",
+        "trayecto",
+        "camino"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        4,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "gran",
+      "neighborWords": [
+        "esta",
+        "expresión",
+        "el",
+        "don",
+        "traído",
+        "por"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "don",
+      "neighborWords": [
+        "expresión",
+        "el",
+        "gran",
+        "traído",
+        "por",
+        "jesucristo"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "traído",
+      "neighborWords": [
+        "el",
+        "gran",
+        "don",
+        "por",
+        "jesucristo",
+        "que"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "por",
+      "neighborWords": [
+        "gran",
+        "don",
+        "traído",
+        "jesucristo",
+        "que",
+        "en",
+        "dispuesto",
+        "a",
+        "morir",
+        "su",
+        "fe"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "jesucristo",
+      "neighborWords": [
+        "don",
+        "traído",
+        "por",
+        "que",
+        "en",
+        "el"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "que",
+      "neighborWords": [
+        "traído",
+        "por",
+        "jesucristo",
+        "en",
+        "el",
+        "evangelio",
+        "y",
+        "así",
+        "cree",
+        "mí",
+        "pues",
+        "dios",
+        "dijo",
+        "“brille",
+        "la",
+        "día",
+        "resultaba",
+        "claro",
+        "no",
+        "podía",
+        "irradiar",
+        "se",
+        "ve",
+        "nadie",
+        "estuviera",
+        "dispuesto",
+        "del",
+        "vasto",
+        "horizonte",
+        "fe",
+        "les",
+        "vida",
+        "a",
+        "marta",
+        "llora",
+        "muerte",
+        "te",
+        "he",
+        "dicho",
+        "si",
+        "crees",
+        "verás",
+        "con",
+        "una",
+        "luz",
+        "ilumina",
+        "todo",
+        "de",
+        "mañana",
+        "conoce",
+        "ocaso"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        2,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "en",
+      "neighborWords": [
+        "por",
+        "jesucristo",
+        "que",
+        "el",
+        "evangelio",
+        "de",
+        "cree",
+        "mí",
+        "no",
+        "quedará",
+        "tinieblas",
+        "también",
+        "san",
+        "pablo",
+        "se",
+        "expresa",
+        "los",
+        "mismos",
+        "términos",
+        "tinieblas”",
+        "ha",
+        "brillado",
+        "nuestros",
+        "corazones",
+        "co",
+        "mundo",
+        "pagano",
+        "su",
+        "fe",
+        "sol",
+        "decía"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        2,
+        4,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "evangelio",
+      "neighborWords": [
+        "que",
+        "en",
+        "el",
+        "de",
+        "san",
+        "juan"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "san",
+      "neighborWords": [
+        "el",
+        "evangelio",
+        "de",
+        "juan",
+        "se",
+        "presenta",
+        "en",
+        "tinieblas",
+        "también",
+        "pablo",
+        "expresa",
+        "sol",
+        "decía",
+        "justino",
+        "mártir",
+        "conscientes"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "juan",
+      "neighborWords": [
+        "evangelio",
+        "de",
+        "san",
+        "se",
+        "presenta",
+        "con"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "se",
+      "neighborWords": [
+        "de",
+        "san",
+        "juan",
+        "presenta",
+        "con",
+        "estas",
+        "también",
+        "pablo",
+        "expresa",
+        "en",
+        "los",
+        "hambriento",
+        "luz",
+        "había",
+        "desarrollado",
+        "el",
+        "ojos",
+        "humanos",
+        "cierran",
+        "a",
+        "su",
+        "no",
+        "ve",
+        "que",
+        "nadie"
+      ],
+      "neighborCounts": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "presenta",
+      "neighborWords": [
+        "san",
+        "juan",
+        "se",
+        "con",
+        "estas",
+        "palabras"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "estas",
+      "neighborWords": [
+        "se",
+        "presenta",
+        "con",
+        "palabras",
+        "yo",
+        "he"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "palabras",
+      "neighborWords": [
+        "presenta",
+        "con",
+        "estas",
+        "yo",
+        "he",
+        "venido"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "yo",
+      "neighborWords": [
+        "con",
+        "estas",
+        "palabras",
+        "he",
+        "venido",
+        "al"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "he",
+      "neighborWords": [
+        "estas",
+        "palabras",
+        "yo",
+        "venido",
+        "al",
+        "mundo",
+        "jesús",
+        "no",
+        "te",
+        "dicho",
+        "que",
+        "si"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "venido",
+      "neighborWords": [
+        "palabras",
+        "yo",
+        "he",
+        "al",
+        "mundo",
+        "como"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "al",
+      "neighborWords": [
+        "yo",
+        "he",
+        "venido",
+        "mundo",
+        "como",
+        "luz",
+        "desarrollado",
+        "el",
+        "culto",
+        "sol",
+        "al",
+        "invictus",
+        "invocado"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "mundo",
+      "neighborWords": [
+        "he",
+        "venido",
+        "al",
+        "como",
+        "luz",
+        "y",
+        "co",
+        "en",
+        "el",
+        "pagano",
+        "hambriento",
+        "de"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "como",
+      "neighborWords": [
+        "venido",
+        "al",
+        "mundo",
+        "luz",
+        "y",
+        "así"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "y",
+      "neighborWords": [
+        "mundo",
+        "como",
+        "luz",
+        "así",
+        "el",
+        "que"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "así",
+      "neighborWords": [
+        "como",
+        "luz",
+        "y",
+        "el",
+        "que",
+        "cree"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "cree",
+      "neighborWords": [
+        "así",
+        "el",
+        "que",
+        "en",
+        "mí",
+        "no",
+        "de",
+        "dios",
+        "quien",
+        "ve",
+        "con"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "word": "mí",
+      "neighborWords": [
+        "que",
+        "cree",
+        "en",
+        "no",
+        "quedará"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "no",
+      "neighborWords": [
+        "cree",
+        "en",
+        "mí",
+        "quedará",
+        "tinieblas",
+        "resultaba",
+        "claro",
+        "que",
+        "podía",
+        "irradiar",
+        "su",
+        "pues",
+        "el",
+        "sol",
+        "ilumina",
+        "toda",
+        "la",
+        "realidad",
+        "sus",
+        "rayos",
+        "pueden",
+        "llegar",
+        "hasta",
+        "a",
+        "luz",
+        "se",
+        "ve",
+        "le",
+        "dice",
+        "jesús",
+        "te",
+        "he",
+        "dicho",
+        "mañana",
+        "conoce",
+        "ocaso"
+      ],
+      "neighborCounts": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "quedará",
+      "neighborWords": [
+        "en",
+        "mí",
+        "no",
+        "tinieblas",
+        "también"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "tinieblas",
+      "neighborWords": [
+        "no",
+        "quedará",
+        "en",
+        "también",
+        "san",
+        "pablo"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "también",
+      "neighborWords": [
+        "quedará",
+        "en",
+        "tinieblas",
+        "san",
+        "pablo",
+        "se"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "pablo",
+      "neighborWords": [
+        "tinieblas",
+        "también",
+        "san",
+        "se",
+        "expresa",
+        "en"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "expresa",
+      "neighborWords": [
+        "san",
+        "pablo",
+        "se",
+        "en",
+        "los",
+        "mismos"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "los",
+      "neighborWords": [
+        "se",
+        "expresa",
+        "en",
+        "mismos",
+        "términos",
+        "pues",
+        "muerte",
+        "allí",
+        "donde",
+        "ojos",
+        "humanos",
+        "fe",
+        "les",
+        "abría",
+        "cristianos",
+        "llamaron",
+        "a"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "mismos",
+      "neighborWords": [
+        "expresa",
+        "en",
+        "los",
+        "términos",
+        "pues",
+        "el"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "términos",
+      "neighborWords": [
+        "en",
+        "los",
+        "mismos",
+        "pues",
+        "el",
+        "dios"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "pues",
+      "neighborWords": [
+        "los",
+        "mismos",
+        "términos",
+        "el",
+        "dios",
+        "que",
+        "existencia",
+        "del",
+        "hombre",
+        "sol",
+        "no"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "dios",
+      "neighborWords": [
+        "términos",
+        "pues",
+        "el",
+        "que",
+        "dijo",
+        "“brille",
+        "la",
+        "gloria",
+        "de",
+        "quien",
+        "cree",
+        "ve"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "dijo",
+      "neighborWords": [
+        "el",
+        "dios",
+        "que",
+        "“brille",
+        "la",
+        "luz"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "“brille",
+      "neighborWords": [
+        "dios",
+        "que",
+        "dijo",
+        "la",
+        "luz",
+        "del"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "del",
+      "neighborWords": [
+        "“brille",
+        "la",
+        "luz",
+        "seno",
+        "de",
+        "las",
+        "toda",
+        "existencia",
+        "hombre",
+        "pues",
+        "el",
+        "justino",
+        "mártir",
+        "conscientes",
+        "vasto",
+        "horizonte",
+        "que",
+        "todo",
+        "trayecto",
+        "camino",
+        "porque",
+        "llega"
+      ],
+      "neighborCounts": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "seno",
+      "neighborWords": [
+        "la",
+        "luz",
+        "del",
+        "de",
+        "las",
+        "tinieblas”"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "las",
+      "neighborWords": [
+        "del",
+        "seno",
+        "de",
+        "tinieblas”",
+        "ha",
+        "brillado",
+        "pueden",
+        "llegar",
+        "hasta",
+        "sombras",
+        "la"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "tinieblas”",
+      "neighborWords": [
+        "seno",
+        "de",
+        "las",
+        "ha",
+        "brillado",
+        "en"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "brillado",
+      "neighborWords": [
+        "las",
+        "tinieblas”",
+        "ha",
+        "en",
+        "nuestros",
+        "corazones"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "nuestros",
+      "neighborWords": [
+        "ha",
+        "brillado",
+        "en",
+        "corazones",
+        "co"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "corazones",
+      "neighborWords": [
+        "brillado",
+        "en",
+        "nuestros",
+        "co",
+        "el"
+      ],
+      "neighborCounts": [
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "co",
+      "neighborWords": [
+        "en",
+        "nuestros",
+        "corazones",
+        "el",
+        "mundo"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "pagano",
+      "neighborWords": [
+        "en",
+        "el",
+        "mundo",
+        "hambriento",
+        "de",
+        "luz"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "hambriento",
+      "neighborWords": [
+        "el",
+        "mundo",
+        "pagano",
+        "de",
+        "luz",
+        "se"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "había",
+      "neighborWords": [
+        "de",
+        "luz",
+        "se",
+        "desarrollado",
+        "el",
+        "culto"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "desarrollado",
+      "neighborWords": [
+        "luz",
+        "se",
+        "había",
+        "el",
+        "culto",
+        "al"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "culto",
+      "neighborWords": [
+        "había",
+        "desarrollado",
+        "el",
+        "al",
+        "sol"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "word": "sol",
+      "neighborWords": [
+        "el",
+        "culto",
+        "al",
+        "sol",
+        "invictus",
+        "invocado",
+        "a",
+        "hombre",
+        "pues",
+        "no",
+        "ilumina",
+        "toda",
+        "fe",
+        "en",
+        "decía",
+        "san",
+        "justino",
+        "cristo",
+        "verdadero",
+        "cuyos",
+        "rayos",
+        "dan"
+      ],
+      "neighborCounts": [
+        4,
+        1,
+        4,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "invictus",
+      "neighborWords": [
+        "sol",
+        "al",
+        "invocado",
+        "a",
+        "su"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "invocado",
+      "neighborWords": [
+        "al",
+        "sol",
+        "invictus",
+        "a",
+        "su",
+        "salida"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "a",
+      "neighborWords": [
+        "sol",
+        "invictus",
+        "invocado",
+        "su",
+        "salida",
+        "pero",
+        "humanos",
+        "se",
+        "cierran",
+        "luz",
+        "no",
+        "nadie",
+        "estuviera",
+        "dispuesto",
+        "morir",
+        "por",
+        "los",
+        "cristianos",
+        "llamaron",
+        "cristo",
+        "el",
+        "verdadero",
+        "dan",
+        "la",
+        "vida",
+        "marta",
+        "que",
+        "llora",
+        "camino",
+        "porque",
+        "llega",
+        "nosotros",
+        "desde"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "su",
+      "neighborWords": [
+        "invictus",
+        "invocado",
+        "a",
+        "salida",
+        "pero",
+        "aunque",
+        "no",
+        "podía",
+        "irradiar",
+        "luz",
+        "sobre",
+        "toda",
+        "se",
+        "cierran",
+        "morir",
+        "por",
+        "fe",
+        "en",
+        "el",
+        "la",
+        "muerte",
+        "de",
+        "hermano",
+        "lázaro",
+        "le"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "salida",
+      "neighborWords": [
+        "invocado",
+        "a",
+        "su",
+        "pero",
+        "aunque",
+        "renacía"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "pero",
+      "neighborWords": [
+        "a",
+        "su",
+        "salida",
+        "aunque",
+        "renacía",
+        "cada"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "aunque",
+      "neighborWords": [
+        "su",
+        "salida",
+        "pero",
+        "renacía",
+        "cada",
+        "día"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "renacía",
+      "neighborWords": [
+        "salida",
+        "pero",
+        "aunque",
+        "cada",
+        "día",
+        "resultaba"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "cada",
+      "neighborWords": [
+        "pero",
+        "aunque",
+        "renacía",
+        "día",
+        "resultaba",
+        "claro"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "día",
+      "neighborWords": [
+        "aunque",
+        "renacía",
+        "cada",
+        "resultaba",
+        "claro",
+        "que"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "resultaba",
+      "neighborWords": [
+        "renacía",
+        "cada",
+        "día",
+        "claro",
+        "que",
+        "no"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "claro",
+      "neighborWords": [
+        "cada",
+        "día",
+        "resultaba",
+        "que",
+        "no",
+        "podía"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "podía",
+      "neighborWords": [
+        "claro",
+        "que",
+        "no",
+        "irradiar",
+        "su",
+        "luz"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "irradiar",
+      "neighborWords": [
+        "que",
+        "no",
+        "podía",
+        "su",
+        "luz",
+        "sobre"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "sobre",
+      "neighborWords": [
+        "irradiar",
+        "su",
+        "luz",
+        "toda",
+        "la",
+        "existencia"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "toda",
+      "neighborWords": [
+        "su",
+        "luz",
+        "sobre",
+        "la",
+        "existencia",
+        "del",
+        "sol",
+        "no",
+        "ilumina",
+        "realidad",
+        "sus"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "existencia",
+      "neighborWords": [
+        "sobre",
+        "toda",
+        "la",
+        "del",
+        "hombre",
+        "pues"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "hombre",
+      "neighborWords": [
+        "la",
+        "existencia",
+        "del",
+        "pues",
+        "el",
+        "sol"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "ilumina",
+      "neighborWords": [
+        "el",
+        "sol",
+        "no",
+        "toda",
+        "la",
+        "realidad",
+        "una",
+        "luz",
+        "que",
+        "todo",
+        "trayecto"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "realidad",
+      "neighborWords": [
+        "ilumina",
+        "toda",
+        "la",
+        "sus",
+        "rayos",
+        "no"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "sus",
+      "neighborWords": [
+        "toda",
+        "la",
+        "realidad",
+        "rayos",
+        "no",
+        "pueden"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "rayos",
+      "neighborWords": [
+        "la",
+        "realidad",
+        "sus",
+        "no",
+        "pueden",
+        "llegar",
+        "verdadero",
+        "sol",
+        "cuyos",
+        "dan",
+        "vida"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "pueden",
+      "neighborWords": [
+        "sus",
+        "rayos",
+        "no",
+        "llegar",
+        "hasta",
+        "las"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "llegar",
+      "neighborWords": [
+        "rayos",
+        "no",
+        "pueden",
+        "hasta",
+        "las",
+        "sombras"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "hasta",
+      "neighborWords": [
+        "no",
+        "pueden",
+        "llegar",
+        "las",
+        "sombras",
+        "de"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "sombras",
+      "neighborWords": [
+        "llegar",
+        "hasta",
+        "las",
+        "de",
+        "la",
+        "muerte"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "muerte",
+      "neighborWords": [
+        "sombras",
+        "de",
+        "la",
+        "allí",
+        "donde",
+        "los",
+        "que",
+        "llora",
+        "su",
+        "hermano"
+      ],
+      "neighborCounts": [
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "allí",
+      "neighborWords": [
+        "de",
+        "la",
+        "muerte",
+        "donde",
+        "los",
+        "ojos"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "donde",
+      "neighborWords": [
+        "la",
+        "muerte",
+        "allí",
+        "los",
+        "ojos",
+        "humanos"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "ojos",
+      "neighborWords": [
+        "allí",
+        "donde",
+        "los",
+        "humanos",
+        "se",
+        "cierran"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "humanos",
+      "neighborWords": [
+        "donde",
+        "los",
+        "ojos",
+        "se",
+        "cierran",
+        "a"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "cierran",
+      "neighborWords": [
+        "ojos",
+        "humanos",
+        "se",
+        "a",
+        "su",
+        "luz"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "ve",
+      "neighborWords": [
+        "luz",
+        "no",
+        "se",
+        "que",
+        "nadie",
+        "estuviera",
+        "dios",
+        "quien",
+        "cree",
+        "ve",
+        "con",
+        "una"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "word": "nadie",
+      "neighborWords": [
+        "se",
+        "ve",
+        "que",
+        "estuviera",
+        "dispuesto",
+        "a"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "estuviera",
+      "neighborWords": [
+        "ve",
+        "que",
+        "nadie",
+        "dispuesto",
+        "a",
+        "morir"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "dispuesto",
+      "neighborWords": [
+        "que",
+        "nadie",
+        "estuviera",
+        "a",
+        "morir",
+        "por"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "morir",
+      "neighborWords": [
+        "estuviera",
+        "dispuesto",
+        "a",
+        "por",
+        "su",
+        "fe"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "decía",
+      "neighborWords": [
+        "en",
+        "el",
+        "sol",
+        "san",
+        "justino",
+        "mártir"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "justino",
+      "neighborWords": [
+        "sol",
+        "decía",
+        "san",
+        "mártir",
+        "conscientes",
+        "del"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "mártir",
+      "neighborWords": [
+        "decía",
+        "san",
+        "justino",
+        "conscientes",
+        "del",
+        "vasto"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "conscientes",
+      "neighborWords": [
+        "san",
+        "justino",
+        "mártir",
+        "del",
+        "vasto",
+        "horizonte"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "vasto",
+      "neighborWords": [
+        "mártir",
+        "conscientes",
+        "del",
+        "horizonte",
+        "que",
+        "la"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "horizonte",
+      "neighborWords": [
+        "conscientes",
+        "del",
+        "vasto",
+        "que",
+        "la",
+        "fe"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "les",
+      "neighborWords": [
+        "que",
+        "la",
+        "fe",
+        "abría",
+        "los",
+        "cristianos"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "abría",
+      "neighborWords": [
+        "la",
+        "fe",
+        "les",
+        "los",
+        "cristianos",
+        "llamaron"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "cristianos",
+      "neighborWords": [
+        "les",
+        "abría",
+        "los",
+        "llamaron",
+        "a",
+        "cristo"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "llamaron",
+      "neighborWords": [
+        "abría",
+        "los",
+        "cristianos",
+        "a",
+        "cristo",
+        "el"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "cristo",
+      "neighborWords": [
+        "cristianos",
+        "llamaron",
+        "a",
+        "el",
+        "verdadero",
+        "sol",
+        "nosotros",
+        "desde",
+        "resucitado",
+        "estrella",
+        "de"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "verdadero",
+      "neighborWords": [
+        "a",
+        "cristo",
+        "el",
+        "sol",
+        "cuyos",
+        "rayos"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "cuyos",
+      "neighborWords": [
+        "el",
+        "verdadero",
+        "sol",
+        "rayos",
+        "dan",
+        "la"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "dan",
+      "neighborWords": [
+        "sol",
+        "cuyos",
+        "rayos",
+        "la",
+        "vida",
+        "a"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "vida",
+      "neighborWords": [
+        "rayos",
+        "dan",
+        "la",
+        "a",
+        "marta",
+        "que"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "marta",
+      "neighborWords": [
+        "la",
+        "vida",
+        "a",
+        "que",
+        "llora"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "llora",
+      "neighborWords": [
+        "a",
+        "marta",
+        "que",
+        "la",
+        "muerte",
+        "de"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "hermano",
+      "neighborWords": [
+        "muerte",
+        "de",
+        "su",
+        "lázaro",
+        "le",
+        "dice"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "lázaro",
+      "neighborWords": [
+        "de",
+        "su",
+        "hermano",
+        "le",
+        "dice",
+        "jesús"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "le",
+      "neighborWords": [
+        "su",
+        "hermano",
+        "lázaro",
+        "dice",
+        "jesús",
+        "no"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "dice",
+      "neighborWords": [
+        "hermano",
+        "lázaro",
+        "le",
+        "jesús",
+        "no",
+        "te"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "jesús",
+      "neighborWords": [
+        "lázaro",
+        "le",
+        "dice",
+        "no",
+        "te",
+        "he"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "te",
+      "neighborWords": [
+        "dice",
+        "jesús",
+        "no",
+        "he",
+        "dicho",
+        "que"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "dicho",
+      "neighborWords": [
+        "no",
+        "te",
+        "he",
+        "que",
+        "si",
+        "crees"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "si",
+      "neighborWords": [
+        "he",
+        "dicho",
+        "que",
+        "crees",
+        "verás",
+        "la"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "crees",
+      "neighborWords": [
+        "dicho",
+        "que",
+        "si",
+        "verás",
+        "la",
+        "gloria"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "verás",
+      "neighborWords": [
+        "que",
+        "si",
+        "crees",
+        "la",
+        "gloria",
+        "de"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "gloria",
+      "neighborWords": [
+        "crees",
+        "verás",
+        "la",
+        "de",
+        "dios",
+        "quien"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "quien",
+      "neighborWords": [
+        "gloria",
+        "de",
+        "dios",
+        "cree",
+        "ve"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "word": "una",
+      "neighborWords": [
+        "ve",
+        "con",
+        "luz",
+        "que",
+        "ilumina"
+      ],
+      "neighborCounts": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "todo",
+      "neighborWords": [
+        "luz",
+        "que",
+        "ilumina",
+        "el",
+        "trayecto",
+        "del"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "trayecto",
+      "neighborWords": [
+        "ilumina",
+        "todo",
+        "el",
+        "del",
+        "camino",
+        "porque"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "camino",
+      "neighborWords": [
+        "el",
+        "trayecto",
+        "del",
+        "porque",
+        "llega",
+        "a"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "porque",
+      "neighborWords": [
+        "trayecto",
+        "del",
+        "camino",
+        "llega",
+        "a",
+        "nosotros"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "llega",
+      "neighborWords": [
+        "del",
+        "camino",
+        "porque",
+        "a",
+        "nosotros",
+        "desde"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "nosotros",
+      "neighborWords": [
+        "porque",
+        "llega",
+        "a",
+        "desde",
+        "cristo",
+        "resucitado"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "desde",
+      "neighborWords": [
+        "llega",
+        "a",
+        "nosotros",
+        "cristo",
+        "resucitado",
+        "estrella"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "resucitado",
+      "neighborWords": [
+        "nosotros",
+        "desde",
+        "cristo",
+        "estrella",
+        "de",
+        "la"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "estrella",
+      "neighborWords": [
+        "desde",
+        "cristo",
+        "resucitado",
+        "de",
+        "la",
+        "mañana"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "mañana",
+      "neighborWords": [
+        "estrella",
+        "de",
+        "la",
+        "que",
+        "no",
+        "conoce"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "conoce",
+      "neighborWords": [
+        "mañana",
+        "que",
+        "no",
+        "ocaso"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "word": "ocaso",
+      "neighborWords": [
+        "que",
+        "no",
+        "conoce"
+      ],
+      "neighborCounts": [
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+"spanish": [
+  {
+    "word": "la",
+    "translations": [
+      "the",
+      "of",
+      "their"
+    ],
+    "scores": [
+      0.7,
+      0.14,
+      0.14
+    ]
+  },
+  {
+    "word": "luz",
+    "translations": [
+      "light"
+    ],
+    "neighborCounts": [
+      1
+    ]
+  }
+]
+}

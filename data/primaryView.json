@@ -2,33 +2,57 @@
   "sentences": [
     {
       "index": 1,
-      "score": 10,
-      "english": "The boy walked to the store.",
-      "spanish": "El chico camin\u00f3 a la tienda."
+      "score": -0.1595744680851064,
+      "english": "1. The light of Faith: this is how the Church\u2019s tradition speaks of the great gift brought by Jesus. In John\u2019s Gospel, Christ says of himself: \"I have come as light into the world, that whoever believes in me may not remain in darkness\" (Jn 12:46).",
+      "spanish": "1. La luz de la fe: la tradici\u00f3n de la Iglesia ha indicado con esta  expresi\u00f3n el gran don tra\u00eddo por Jesucristo, que en el Evangelio de san Juan se presenta con estas palabras: \u00ab Yo he venido al mundo como luz, y as\u00ed, el que cree en m\u00ed no quedar\u00e1 en tinieblas \u00bb (Jn 12,46)."
     },
     {
       "index": 2,
-      "score": 8,
-      "english": "He saw a book.",
-      "spanish": "Vio un libro."
+      "score": -0.19148936170212766,
+      "english": "Saint Paul uses the same image: \"God who said \u2018Let light shine out of darkness,\u2019 has shone in our hearts\" (2 Cor 4:6).",
+      "spanish": "Tambi\u00e9n san Pablo se expresa en los mismos t\u00e9rminos: \u00ab Pues el Dios que dijo: \u201cBrille la luz del seno de las tinieblas\u201d, ha brillado en nuestros corazones \u00bb (2 Co 4,6)."
     },
     {
       "index": 3,
-      "score": 9,
-      "english": "He heard a cow.",
-      "spanish": "\u00c9l escuch\u00f3 una vaca."
+      "score": -0.32608695652173914,
+      "english": "The pagan world, which hungered for light, had seen the growth of the cult of the sun god, Sol Invictus, invoked each day at sunrise.",
+      "spanish": "En el mundo pagano, hambriento de luz, se hab\u00eda desarrollado el culto al Sol, al Sol invictus, invocado a su salida."
     },
     {
       "index": 4,
-      "score": 7,
-      "english": "He ate some food.",
-      "spanish": "Comi\u00f3 algo de comida."
+      "score": -0.14634146341463414,
+      "english": "Yet though the sun was born anew each morning, it was clearly incapable of casting its light on all of human existence.",
+      "spanish": "Pero, aunque renac\u00eda cada d\u00eda, resultaba claro que no pod\u00eda irradiar su luz sobre toda la existencia del hombre."
     },
     {
       "index": 5,
-      "score": 7,
-      "english": "Then, he left the store.",
-      "spanish": "Luego, sali\u00f3 de la almac\u00e9n."
+      "score": -0.12727272727272726,
+      "english": "The sun does not illumine all reality; its rays cannot penetrate to the shadow of death, the place where men\u2019s eyes are closed to its light.",
+      "spanish": "Pues el sol no ilumina toda la realidad; sus rayos no pueden llegar hasta las sombras de la muerte, all\u00ed donde los ojos humanos se cierran a su luz."
+    },
+    {
+      "index": 6,
+      "score": -0.21621621621621623,
+      "english": "\"No one \u2014 Saint Justin Martyr writes \u2014 has ever been ready to die for his faith in the sun\".[1]",
+      "spanish": "\u00ab No se ve que nadie estuviera dispuesto a morir por su fe en el sol \u00bb[1], dec\u00eda san Justino m\u00e1rtir."
+    },
+    {
+      "index": 7,
+      "score": -0.06818181818181818,
+      "english": "Conscious of the immense horizon which their faith opened before them, Christians invoked Jesus as the true sun \"whose rays bestow life\".[2]",
+      "spanish": "Conscientes del vasto horizonte que la fe les abr\u00eda, los cristianos llamaron a Cristo el verdadero sol, \u00ab cuyos rayos dan la vida \u00bb[2]."
+    },
+    {
+      "index": 8,
+      "score": -0.05660377358490566,
+      "english": "To Martha, weeping for the death of her brother Lazarus, Jesus said: \"Did I not tell you that if you believed, you would see the glory of God?\" (Jn 11:40).",
+      "spanish": "A Marta, que llora la muerte de su hermano L\u00e1zaro, le dice Jes\u00fas: \u00ab \u00bfNo te he dicho que si crees ver\u00e1s la gloria de Dios? \u00bb (Jn 11,40)."
+    },
+    {
+      "index": 9,
+      "score": -0.10909090909090909,
+      "english": "Those who believe, see; they see with a light that illumines their entire journey, for it comes from the risen Christ, the morning star which never sets.\\n",
+      "spanish": "Quien cree ve; ve con una luz que ilumina todo el trayecto del camino, porque llega a nosotros desde Cristo resucitado, estrella de la ma\u00f1ana que no conoce ocaso.\\n "
     }
   ]
 }
