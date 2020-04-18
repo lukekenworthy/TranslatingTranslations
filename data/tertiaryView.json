@@ -1,26 +1,2672 @@
 {
-"spanish": [
+  "englishWords": [
+    "the",
+    "light",
+    "of",
+    "faith",
+    "tradition",
+    "church's",
+    "speaks",
+    "this",
+    "great",
+    "gift",
+    "brought",
+    "by",
+    "jesus",
+    "in",
+    "gospel",
+    "john´s",
+    "himself",
+    "says",
+    "i",
+    "have",
+    "come",
+    "into the",
+    "world",
+    "as",
+    "that",
+    "whoever",
+    "believes",
+    "me",
+    "not",
+    "remain",
+    "darkness",
+    "saint",
+    "paul",
+    "uses",
+    "same",
+    "image",
+    "god",
+    "who",
+    "said",
+    "shine",
+    "out of",
+    "has",
+    "shone",
+    "our",
+    "hearts",
+    "pagan",
+    "hungered",
+    "for",
+    "had",
+    "growth",
+    "cult",
+    "of the",
+    "sun",
+    "sol",
+    "invictus",
+    "invoked",
+    "yet",
+    "though",
+    "born anew",
+    "each",
+    "morning",
+    "it was",
+    "clearly",
+    "incapable",
+    "casting",
+    "its",
+    "on",
+    "all",
+    "existence",
+    "human",
+    "does not",
+    "illumine",
+    "reality",
+    "rays",
+    "cannot",
+    "penetrate",
+    "to",
+    "shadow",
+    "death",
+    "the place",
+    "where",
+    "eyes",
+    "men´s",
+    "closed",
+    "no one",
+    "ready",
+    "die",
+    "his",
+    "writes",
+    "justin",
+    "martyr",
+    "conscious",
+    "immense",
+    "horizon",
+    "which",
+    "their",
+    "them",
+    "opened",
+    "christians",
+    "true",
+    "whose",
+    "bestow",
+    "life",
+    "martha",
+    "weeping",
+    "her",
+    "brother",
+    "lazarus",
+    "you",
+    "did i",
+    "tell",
+    "if",
+    "you believed",
+    "you would see",
+    "glory",
+    "those who",
+    "believe",
+    "see",
+    "with",
+    "a",
+    "illumines",
+    "entire",
+    "journey",
+    "comes",
+    "from",
+    "christ",
+    "risen",
+    "star",
+    "never",
+    "sets"
+  ],
+  "spanishWords": [
+    "la",
+    "luz",
+    "de la",
+    "fe",
+    "tradicion",
+    "de la iglesia",
+    "indicado",
+    "esta",
+    "el",
+    "gran",
+    "don",
+    "traido",
+    "por",
+    "jesucristo",
+    "en",
+    "evangelio",
+    "de san juan",
+    "se",
+    "presenta",
+    "yo",
+    "he",
+    "venido",
+    "al",
+    "mundo",
+    "como",
+    "así",
+    "el que",
+    "cree",
+    "mí",
+    "no",
+    "quedará",
+    "tinieblas",
+    "san",
+    "pablo",
+    "se expresa",
+    "los",
+    "mismos",
+    "términos",
+    "dios",
+    "que",
+    "dijo",
+    "brille",
+    "de",
+    "ha",
+    "brillado",
+    "nuestros",
+    "corazones",
+    "pagano",
+    "hambriento",
+    "había",
+    "desarrollado",
+    "culto",
+    "sol",
+    "invictus",
+    "invocado",
+    "pero",
+    "aunque",
+    "renacía",
+    "cada",
+    "día",
+    "resultaba",
+    "claro",
+    "no podía",
+    "irradiar",
+    "su",
+    "sobre",
+    "toda",
+    "existencia",
+    "hombre",
+    "ilumina",
+    "realidad",
+    "sus",
+    "rayos",
+    "no pueden",
+    "llegar",
+    "hasta",
+    "las",
+    "sombras",
+    "muerte",
+    "allí",
+    "donde",
+    "ojos",
+    "humanos",
+    "cierran",
+    "a",
+    "nadie",
+    "dispuesto",
+    "morir",
+    "decía",
+    "justino",
+    "mártir",
+    "conscientes",
+    "del",
+    "vasto",
+    "horizonte",
+    "les",
+    "abría",
+    "cristianos",
+    "llamaron",
+    "cristo",
+    "verdadero",
+    "cuyos",
+    "dan",
+    "vida",
+    "marta",
+    "llora",
+    "hermano",
+    "lázaro",
+    "dice",
+    "jesús",
+    "te",
+    "dicho",
+    "si",
+    "crees",
+    "verás",
+    "gloria",
+    "quien",
+    "ve",
+    "con",
+    "una",
+    "todo",
+    "trayecto del camino",
+    "porque",
+    "llega",
+    "desde",
+    "resucitado",
+    "estrella",
+    "mañana",
+    "ocaso"
+  ],
+  "translations": [
+    {
+      "word": "la",
+      "translations": [
+        "the",
+        "of",
+        "their"
+      ],
+      "scores": [
+        0.7142857142857143,
+        0.14285714285714285,
+        0.14285714285714285
+      ]
+    },
+    {
+      "word": "luz",
+      "translations": [
+        "light"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "de la",
+      "translations": [
+        "of"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "fe",
+      "translations": [
+        "faith"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "tradicion",
+      "translations": [
+        "tradition"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "de la iglesia",
+      "translations": [
+        "church's"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "indicado",
+      "translations": [
+        "speaks"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "esta",
+      "translations": [
+        "this"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "el",
+      "translations": [
+        "the",
+        "their"
+      ],
+      "scores": [
+        0.8571428571428571,
+        0.14285714285714285
+      ]
+    },
+    {
+      "word": "gran",
+      "translations": [
+        "great"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "don",
+      "translations": [
+        "gift"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "traido",
+      "translations": [
+        "brought"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "por",
+      "translations": [
+        "by",
+        "for"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "jesucristo",
+      "translations": [
+        "jesus"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "en",
+      "translations": [
+        "in"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "evangelio",
+      "translations": [
+        "gospel"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "de san juan",
+      "translations": [
+        "john´s"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "se",
+      "translations": [
+        "himself"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "presenta",
+      "translations": [
+        "says"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "yo",
+      "translations": [
+        "i"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "he",
+      "translations": [
+        "have",
+        "did i"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "venido",
+      "translations": [
+        "come"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "al",
+      "translations": [
+        "into the",
+        "of the"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "mundo",
+      "translations": [
+        "world"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "como",
+      "translations": [
+        "as"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "así",
+      "translations": [
+        "that"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "el que",
+      "translations": [
+        "whoever"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cree",
+      "translations": [
+        "believes",
+        "believe"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "mí",
+      "translations": [
+        "me"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "no",
+      "translations": [
+        "not",
+        "does not",
+        "never"
+      ],
+      "scores": [
+        0.5,
+        0.25,
+        0.25
+      ]
+    },
+    {
+      "word": "quedará",
+      "translations": [
+        "remain"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "tinieblas",
+      "translations": [
+        "darkness"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "san",
+      "translations": [
+        "saint"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "pablo",
+      "translations": [
+        "paul"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "se expresa",
+      "translations": [
+        "uses"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "los",
+      "translations": [
+        "the"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "mismos",
+      "translations": [
+        "same"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "términos",
+      "translations": [
+        "image"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "dios",
+      "translations": [
+        "god"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "que",
+      "translations": [
+        "who",
+        "which",
+        "that"
+      ],
+      "scores": [
+        0.2,
+        0.4,
+        0.4
+      ]
+    },
+    {
+      "word": "dijo",
+      "translations": [
+        "said"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "brille",
+      "translations": [
+        "shine"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "de",
+      "translations": [
+        "out of",
+        "for",
+        "of"
+      ],
+      "scores": [
+        0.25,
+        0.25,
+        0.5
+      ]
+    },
+    {
+      "word": "ha",
+      "translations": [
+        "has"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "brillado",
+      "translations": [
+        "shone"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "nuestros",
+      "translations": [
+        "our"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "corazones",
+      "translations": [
+        "hearts"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "pagano",
+      "translations": [
+        "pagan"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "hambriento",
+      "translations": [
+        "hungered"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "había",
+      "translations": [
+        "had"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "desarrollado",
+      "translations": [
+        "growth"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "culto",
+      "translations": [
+        "cult"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "sol",
+      "translations": [
+        "sun",
+        "sol"
+      ],
+      "scores": [
+        0.8,
+        0.2
+      ]
+    },
+    {
+      "word": "invictus",
+      "translations": [
+        "invictus"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "invocado",
+      "translations": [
+        "invoked"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "pero",
+      "translations": [
+        "yet"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "aunque",
+      "translations": [
+        "though"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "renacía",
+      "translations": [
+        "born anew"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cada",
+      "translations": [
+        "each"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "día",
+      "translations": [
+        "morning"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "resultaba",
+      "translations": [
+        "it was"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "claro",
+      "translations": [
+        "clearly"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "no podía",
+      "translations": [
+        "incapable"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "irradiar",
+      "translations": [
+        "casting"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "su",
+      "translations": [
+        "its",
+        "his",
+        "her"
+      ],
+      "scores": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ]
+    },
+    {
+      "word": "sobre",
+      "translations": [
+        "on"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "toda",
+      "translations": [
+        "all"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "existencia",
+      "translations": [
+        "existence"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "hombre",
+      "translations": [
+        "human"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "ilumina",
+      "translations": [
+        "illumine",
+        "illumines"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "realidad",
+      "translations": [
+        "reality"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "sus",
+      "translations": [
+        "its"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "rayos",
+      "translations": [
+        "rays"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "no pueden",
+      "translations": [
+        "cannot"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "llegar",
+      "translations": [
+        "penetrate"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "hasta",
+      "translations": [
+        "to"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "las",
+      "translations": [
+        "the"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "sombras",
+      "translations": [
+        "shadow"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "muerte",
+      "translations": [
+        "death"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "allí",
+      "translations": [
+        "the place"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "donde",
+      "translations": [
+        "where"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "ojos",
+      "translations": [
+        "eyes"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "humanos",
+      "translations": [
+        "men´s"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cierran",
+      "translations": [
+        "closed"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "a",
+      "translations": [
+        "to",
+        "as"
+      ],
+      "scores": [
+        0.75,
+        0.25
+      ]
+    },
+    {
+      "word": "nadie",
+      "translations": [
+        "no one"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "dispuesto",
+      "translations": [
+        "ready"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "morir",
+      "translations": [
+        "die"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "decía",
+      "translations": [
+        "writes"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "justino",
+      "translations": [
+        "justin"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "mártir",
+      "translations": [
+        "martyr"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "conscientes",
+      "translations": [
+        "conscious"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "del",
+      "translations": [
+        "of the"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "vasto",
+      "translations": [
+        "immense"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "horizonte",
+      "translations": [
+        "horizon"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "les",
+      "translations": [
+        "them"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "abría",
+      "translations": [
+        "opened"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cristianos",
+      "translations": [
+        "christians"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "llamaron",
+      "translations": [
+        "invoked"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cristo",
+      "translations": [
+        "jesus",
+        "christ"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "verdadero",
+      "translations": [
+        "true"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cuyos",
+      "translations": [
+        "whose"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "dan",
+      "translations": [
+        "bestow"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "vida",
+      "translations": [
+        "life"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "marta",
+      "translations": [
+        "martha"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "llora",
+      "translations": [
+        "weeping"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "hermano",
+      "translations": [
+        "brother"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "lázaro",
+      "translations": [
+        "lazarus"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "dice",
+      "translations": [
+        "said"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "jesús",
+      "translations": [
+        "jesus"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "te",
+      "translations": [
+        "you"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "dicho",
+      "translations": [
+        "tell"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "si",
+      "translations": [
+        "if"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "crees",
+      "translations": [
+        "you believed"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "verás",
+      "translations": [
+        "you would see"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "gloria",
+      "translations": [
+        "glory"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "quien",
+      "translations": [
+        "those who"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "ve",
+      "translations": [
+        "see"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "con",
+      "translations": [
+        "with"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "una",
+      "translations": [
+        "a"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "todo",
+      "translations": [
+        "entire"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "trayecto del camino",
+      "translations": [
+        "journey"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "porque",
+      "translations": [
+        "for"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "llega",
+      "translations": [
+        "comes"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "desde",
+      "translations": [
+        "from"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "resucitado",
+      "translations": [
+        "risen"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "estrella",
+      "translations": [
+        "star"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "mañana",
+      "translations": [
+        "morning"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "ocaso",
+      "translations": [
+        "sets"
+      ],
+      "scores": [
+        1
+      ]
+    },
   {
-    "word": "la",
-    "translations": [
-      "the",
-      "of",
-      "their"
-    ],
-    "scores": [
-      0.7,
-      0.14,
-      0.14
-    ]
-  },
-  {
-    "word": "luz",
-    "translations": [
-      "light"
-    ],
-    "neighborCounts": [
-      1
-    ]
-  }
-]
+      "word": "the",
+      "translations": [
+        "la",
+        "el",
+        "los",
+        "las"
+      ],
+      "scores": [
+        0.38461538461538464,
+        0.46153846153846156,
+        0.07692307692307693,
+        0.07692307692307693
+      ]
+    },
+    {
+      "word": "light",
+      "translations": [
+        "luz"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "of",
+      "translations": [
+        "de la",
+        "la",
+        "de"
+      ],
+      "scores": [
+        0.4,
+        0.2,
+        0.4
+      ]
+    },
+    {
+      "word": "faith",
+      "translations": [
+        "fe"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "tradition",
+      "translations": [
+        "tradicion"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "church's",
+      "translations": [
+        "de la iglesia"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "speaks",
+      "translations": [
+        "indicado"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "this",
+      "translations": [
+        "esta"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "great",
+      "translations": [
+        "gran"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "gift",
+      "translations": [
+        "don"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "brought",
+      "translations": [
+        "traido"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "by",
+      "translations": [
+        "por"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "jesus",
+      "translations": [
+        "jesucristo",
+        "cristo",
+        "jesús"
+      ],
+      "scores": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ]
+    },
+    {
+      "word": "in",
+      "translations": [
+        "en"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "gospel",
+      "translations": [
+        "evangelio"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "john´s",
+      "translations": [
+        "de san juan"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "himself",
+      "translations": [
+        "se"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "says",
+      "translations": [
+        "presenta"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "i",
+      "translations": [
+        "yo"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "have",
+      "translations": [
+        "he"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "come",
+      "translations": [
+        "venido"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "into the",
+      "translations": [
+        "al"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "world",
+      "translations": [
+        "mundo"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "as",
+      "translations": [
+        "como",
+        "a"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "that",
+      "translations": [
+        "así",
+        "que"
+      ],
+      "scores": [
+        0.3333333333333333,
+        0.6666666666666666
+      ]
+    },
+    {
+      "word": "whoever",
+      "translations": [
+        "el que"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "believes",
+      "translations": [
+        "cree"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "me",
+      "translations": [
+        "mí"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "not",
+      "translations": [
+        "no"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "remain",
+      "translations": [
+        "quedará"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "darkness",
+      "translations": [
+        "tinieblas"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "saint",
+      "translations": [
+        "san"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "paul",
+      "translations": [
+        "pablo"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "uses",
+      "translations": [
+        "se expresa"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "same",
+      "translations": [
+        "mismos"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "image",
+      "translations": [
+        "términos"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "god",
+      "translations": [
+        "dios"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "who",
+      "translations": [
+        "que"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "said",
+      "translations": [
+        "dijo",
+        "dice"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "shine",
+      "translations": [
+        "brille"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "out of",
+      "translations": [
+        "de"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "has",
+      "translations": [
+        "ha"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "shone",
+      "translations": [
+        "brillado"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "our",
+      "translations": [
+        "nuestros"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "hearts",
+      "translations": [
+        "corazones"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "pagan",
+      "translations": [
+        "pagano"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "hungered",
+      "translations": [
+        "hambriento"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "for",
+      "translations": [
+        "de",
+        "por",
+        "porque"
+      ],
+      "scores": [
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333
+      ]
+    },
+    {
+      "word": "had",
+      "translations": [
+        "había"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "growth",
+      "translations": [
+        "desarrollado"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cult",
+      "translations": [
+        "culto"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "of the",
+      "translations": [
+        "al",
+        "del"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "sun",
+      "translations": [
+        "sol"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "sol",
+      "translations": [
+        "sol"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "invictus",
+      "translations": [
+        "invictus"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "invoked",
+      "translations": [
+        "invocado",
+        "llamaron"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "yet",
+      "translations": [
+        "pero"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "though",
+      "translations": [
+        "aunque"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "born anew",
+      "translations": [
+        "renacía"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "each",
+      "translations": [
+        "cada"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "morning",
+      "translations": [
+        "día",
+        "mañana"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "it was",
+      "translations": [
+        "resultaba"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "clearly",
+      "translations": [
+        "claro"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "incapable",
+      "translations": [
+        "no podía"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "casting",
+      "translations": [
+        "irradiar"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "its",
+      "translations": [
+        "su",
+        "sus"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "on",
+      "translations": [
+        "sobre"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "all",
+      "translations": [
+        "toda"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "existence",
+      "translations": [
+        "existencia"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "human",
+      "translations": [
+        "hombre"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "does not",
+      "translations": [
+        "no"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "illumine",
+      "translations": [
+        "ilumina"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "reality",
+      "translations": [
+        "realidad"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "rays",
+      "translations": [
+        "rayos"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "cannot",
+      "translations": [
+        "no pueden"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "penetrate",
+      "translations": [
+        "llegar"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "to",
+      "translations": [
+        "hasta",
+        "a"
+      ],
+      "scores": [
+        0.25,
+        0.75
+      ]
+    },
+    {
+      "word": "shadow",
+      "translations": [
+        "sombras"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "death",
+      "translations": [
+        "muerte"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "the place",
+      "translations": [
+        "allí"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "where",
+      "translations": [
+        "donde"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "eyes",
+      "translations": [
+        "ojos"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "men´s",
+      "translations": [
+        "humanos"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "closed",
+      "translations": [
+        "cierran"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "no one",
+      "translations": [
+        "nadie"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "ready",
+      "translations": [
+        "dispuesto"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "die",
+      "translations": [
+        "morir"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "his",
+      "translations": [
+        "su"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "writes",
+      "translations": [
+        "decía"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "justin",
+      "translations": [
+        "justino"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "martyr",
+      "translations": [
+        "mártir"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "conscious",
+      "translations": [
+        "conscientes"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "immense",
+      "translations": [
+        "vasto"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "horizon",
+      "translations": [
+        "horizonte"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "which",
+      "translations": [
+        "que"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "their",
+      "translations": [
+        "la",
+        "el"
+      ],
+      "scores": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "word": "them",
+      "translations": [
+        "les"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "opened",
+      "translations": [
+        "abría"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "christians",
+      "translations": [
+        "cristianos"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "true",
+      "translations": [
+        "verdadero"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "whose",
+      "translations": [
+        "cuyos"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "bestow",
+      "translations": [
+        "dan"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "life",
+      "translations": [
+        "vida"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "martha",
+      "translations": [
+        "marta"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "weeping",
+      "translations": [
+        "llora"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "her",
+      "translations": [
+        "su"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "brother",
+      "translations": [
+        "hermano"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "lazarus",
+      "translations": [
+        "lázaro"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "you",
+      "translations": [
+        "te"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "did i",
+      "translations": [
+        "he"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "tell",
+      "translations": [
+        "dicho"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "if",
+      "translations": [
+        "si"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "you believed",
+      "translations": [
+        "crees"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "you would see",
+      "translations": [
+        "verás"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "glory",
+      "translations": [
+        "gloria"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "those who",
+      "translations": [
+        "quien"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "believe",
+      "translations": [
+        "cree"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "see",
+      "translations": [
+        "ve"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "with",
+      "translations": [
+        "con"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "a",
+      "translations": [
+        "una"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "illumines",
+      "translations": [
+        "ilumina"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "entire",
+      "translations": [
+        "todo"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "journey",
+      "translations": [
+        "trayecto del camino"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "comes",
+      "translations": [
+        "llega"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "from",
+      "translations": [
+        "desde"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "christ",
+      "translations": [
+        "cristo"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "risen",
+      "translations": [
+        "resucitado"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "star",
+      "translations": [
+        "estrella"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "never",
+      "translations": [
+        "no"
+      ],
+      "scores": [
+        1
+      ]
+    },
+    {
+      "word": "sets",
+      "translations": [
+        "ocaso"
+      ],
+      "scores": [
+        1
+      ]
+    }
+  ]
 }

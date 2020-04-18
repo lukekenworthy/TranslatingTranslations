@@ -2,10 +2,10 @@
 queue()
     .defer(d3.json,"data/primaryView.json")
     .defer(d3.json,"data/secondaryView.json")
-    //.defer(d3.json,"data/tertiaryView.json")
+    .defer(d3.json,"data/tertiaryView.json")
     .await(createVis);
 
-function createVis(error, primaryView, secondaryView) { //}, tertiaryView) {
+function createVis(error, primaryView, secondaryView, tertiaryView) {
     if(error) { console.log(error);}
 
     sentenceData = primaryView.sentences;
@@ -26,8 +26,12 @@ function createVis(error, primaryView, secondaryView) { //}, tertiaryView) {
 
 
     //Tertiary View
-    // tertiaryData = tertiaryView.spanish;
-    // tertiaryViewVisualization();
+    englishWords = tertiaryView.englishWords;
+    spanishWords = tertiaryView.spanishWords;
+    translations = tertiaryView.translations;
+    var curWord = "the";
+
+    var tertiaryView = new TertiaryView("tertiaryView", englishWords, spanishWords, translations, curWord);
 }
 
 function primaryViewVisualization() {
@@ -38,7 +42,7 @@ function primaryViewVisualization() {
         $('#spanish-document-p').append(sentence.spanish + "&nbsp;");
     });
 
-    //Make tables of sentences in order of least similarity
+    //Make tables of sentences in order of learst similarity
     var newSentenceData = sentenceData.sort(function(a, b) { return d3.ascending(a.score, b.score);});
     var ind = 1;
 
