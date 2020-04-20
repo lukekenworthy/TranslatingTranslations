@@ -1,6 +1,59 @@
+h1 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 26px;
+  color: rgb(131, 108, 212)
+}
+
+h2 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 20px;
+  margin-bottom: 30px;
+}
 
 
-/**** ADD YOUR STYLES ****/
+h3 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  line-height: 15px;
+}
+
+p {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.description {
+  background-color: rgba(254, 201, 185, 0.41);
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.descriptionText {
+  margin: 8px;
+  justify-content: normal;
+}
+
+#documentsTitle {
+  font-size: 22px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
 
 #englishSentenceRankings {
   border: 1px solid black;
@@ -10,19 +63,49 @@
   border: 1px solid black;
 }
 
-h2 {
-  margin-bottom: 30px;
+table{
+  height: 800px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: block;
+}
+
+.container {
+  margin-top: 25px;
+}
+
+tr {
+  border-bottom: 1px solid lightgrey;
+}
+
+.column-header {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.column-header-2 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.englDoc {
+  border-right: 1px solid lightgrey;
 }
 
 .title {
-  font-size: 24px;
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+  margin-top: 18px;
+}
+
+.lables {
+  font-size: 24px;
+  background-color: #f8f9ff;
 }
 
 .links line {
-  stroke: #999;
-  stroke-opacity: 0.6;
+  stroke: #999999;
 }
 
 .nodes circle {
@@ -40,7 +123,7 @@ text {
   shape-rendering: auto;
   fill-opacity: 0;
   stroke-width: 0.5px;
-  stroke: rgb(0, 0, 0);
+  stroke: rgb(131, 108, 212);
   stroke-opacity: 0;
 }
 .subBars{
@@ -49,4 +132,9 @@ text {
 .edges{
   stroke:none;
   fill-opacity:0.5;
+}
+
+
+#tertiaryView {
+  align-content: center;
 }

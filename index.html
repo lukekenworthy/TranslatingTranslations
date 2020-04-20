@@ -14,39 +14,71 @@
 
 	<div class="container">
 
-		<h1>Translating Translations</h1>
-		<h2>By Luke Kenworthy and Emily Shoemaker</h2>
+		<h1 class="title">Translating Translations</h1>
+		<h2 class="title">By Luke Kenworthy and Emily Shoemaker</h2>
 
 		<!-- show full documents -->
+		<div class="row description">
+			<div class="col-md-12 descriptionText">
+				HOW-TO: The first part of the visualization is centered on the document. To the left and right of the document text in both languages, you'll see a list of the sentences from the document ranked from least similar to most similar. Scroll in that list to see all sentence options. When you click a sentence, you can see its location in the text highlighted, as well as its corresponding tranlsation.
+			</div>
+		</div>
+		<div class="row title">
+			<div class="col-md-12" id="documentsTitle">
+				Lumen Fidei, Section 1
+			</div>
+		</div>
 		<div class="row">
-			<div class="col-sm-6 title">English</div>
-			<div class="col-sm-6 title">Spanish</div>
+			<div class="col-md-6 title column-header">English</div>
+			<div class="col-md-6 title column-header">Spanish</div>
 		</div>
 
 		<div class="row">
-			<div class="col-sm-2">
-				<table id="englishSentenceRankings"></table>
+			<div class="col-md-2">
+				<table class="sentenceRankings" id="englishSentenceRankings"></table>
 			</div>
-			<div class="col-sm-4">
+			<div class="col-md-4 englDoc">
 				<p id="english-document-p"></p>
 			</div>
-			<div class="col-sm-4">
+			<div class="col-md-4">
 				<p id="spanish-document-p"></p>
 			</div>
-			<div class="col-sm-2">
-				<table id="spanishSentenceRankings"></table>
+			<div class="col-md-2">
+				<table class="sentenceRankings" id="spanishSentenceRankings"></table>
 			</div>
 		</div>
 
 		<hr>
 
+		<!-- Show setence node-link graphs-->
+
+		<div class="row description">
+			<div class="col-md-12 descriptionText">
+				HOW-TO: Now that you've selected a sentence from the document, you can see how often its words appear close together. The thicker the link between nodes, the more often those words appear together in the document. You can select a particular node to highlight its connections and center it in the graph. You can also drag nodes to see more detail in their links.
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 column-header-2">English</div>
+			<div class="col-md-6 column-header-2">Spanish</div>
+		</div>
 		<div class="row" id="parentMain">
-			<div class = "col-sm-6" id="secondaryViewEnglish"></div>
-			<div class="col-sm-6" id="secondaryViewSpanish"></div>
+			<div class = "col-md-6" id="secondaryViewEnglish"></div>
+			<div class="col-md-6" id="secondaryViewSpanish"></div>
 		</div>
 
 		<hr>
 
+		<!-- Show translations between words-->
+
+		<div class="row description">
+			<div class="col-md-12 descriptionText">
+				HOW-TO: When you select a word in the sentence-level node link graph, you can see its translations in the entire document. When you mouseover a particular word you can see its specific translations and the percentage of the translations that are to each particular word. The word you selected in the sentence will appear highlighted, as will its translations.
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 column-header-2">English</div>
+			<div class="col-md-6 column-header-2">Spanish</div>
+		</div>
 		<div class="row">
 			<div id="tertiaryView"></div>
 		</div>

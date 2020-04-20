@@ -1,49 +1,58 @@
-TertiaryView = function(_parentElement, _englishWords, _spanishWords, _translations, _curWord){
+TertiaryView = function(_parentElement, _englishWords, _spanishWords, _translations, _curWord, _curLanguage){
     this.parentElement = _parentElement;
     this.englishWords = _englishWords;
     this.spanishWords = _spanishWords;
     this.translations = _translations;
     this.curWord = _curWord;
+    this.curLanguage = _curLanguage;
     this.initVis();
 }
 
 TertiaryView.prototype.initVis = function() {
     var vis = this;
-    //
-    // // SVG Size
-    // vis.margin = { top: 40, right: 10, bottom: 40, left: 10 };
-    // vis.width = $("#" + vis.parentElement).width() - vis.margin.left - vis.margin.right;
-    // vis.height = 300 - vis.margin.top - vis.margin.bottom;
-    //
-    // vis.svg = d3.select("#"+vis.parentElement).append("svg")
-    //     .attr("width", vis.width + vis.margin.left + vis.margin.right)
-    //     .attr("height", vis.height + vis.margin.top + vis.margin.bottom)
-    //     .append("g");
-    // //.attr("transform", "translate(" + vis.margin.left + "," + vis.margin.top + ")");
 
-    vis.wrangleData(vis.curWord);
+    vis.svg = d3.select("#tertiaryView").append("svg").attr("width", 1000).attr("height", 800);
+
+    vis.wrangleData(vis.curWord, vis.curLanguage);
 
 }
 
-TertiaryView.prototype.wrangleData = function(curWord) {
+TertiaryView.prototype.wrangleData = function(curWord, curLanguage) {
     var vis = this;
+    vis.curWord = curWord;
+    //vis.curLanguage = curLanguage;
 
     var queue = [curWord];
+    var queueLanguages = [curLanguage];
     var visited = [];
-
+    var visitedLanguages = [];
 
     //create array visited with all words are connected starting from curWord
     while(Array.isArray(queue) && queue.length > 0){
         var currentWord = queue.pop();
+        var currentLanguage = queueLanguages.pop();
+        var oppositeLanguage = currentLanguage === "english" ? "spanish" : "english";
+
+        //get word from data based on word and its language
         var currentTranslation = vis.translations.filter(function(w) {
-            return w.word === currentWord;
+            return w.word === currentWord && w.language === currentLanguage;
         });
+
+        console.log(currentWord + ", " + currentLanguage);
+
+        //should only have 1 match in the data, so examine its translations
+        //see if word is already visited by checking if in the visited array or if it is but from the wrong language
         currentTranslation[0].translations.forEach(function(t) {
-            if(!visited.includes(t)) {
+            if(!visited.includes(t) || (visited.includes(t) && queueLanguages[visited.indexOf(t)] === oppositeLanguage)) {
                 queue.push(t);
+                queueLanguages.push(oppositeLanguage);
             }
         });
-        if(!visited.includes(currentWord)) {visited.push(currentWord)};
+
+        if(!visited.includes(currentWord)) {
+            visited.push(currentWord);
+            visitedLanguages.push(currentLanguage);
+        }
     }
 
     //put data in correct format for bipartite graph
@@ -54,10 +63,9 @@ TertiaryView.prototype.wrangleData = function(curWord) {
     });
 
     filteredTranslations.forEach(function(t) {
-        var mainWord = t.word;
-        if(englishWords.includes(mainWord)) {
+        if(t.language === "english") {
             t.translations.forEach(function(translation, index){
-                vis.bpData.push([mainWord, translation, t.scores[index]]);
+                vis.bpData.push([t.word, translation, t.scores[index]]);
             })
         }
     });
@@ -70,17 +78,19 @@ TertiaryView.prototype.wrangleData = function(curWord) {
 TertiaryView.prototype.updateVis = function() {
     var vis = this;
 
-    //var color ={Elite:"#3366CC", Grand:"#DC3912",  Lite:"#FF9900", Medium:"#109618", Pluxss:"#990099", Small:"#0099C6"};
-    var svg = d3.select("#tertiaryView").append("svg").attr("width", 960).attr("height", 800);
-    var g = svg.append("g").attr("transform","translate(200,50)");
+    vis.svg.selectAll(".wordData").remove();
 
+    var g = vis.svg.append("g").attr("class", "wordData").attr("transform","translate(330,50)");
+
+    //create bipartite graph, coloring selected word and its connections
     var bp=viz.bP()
         .data(vis.bpData)
         .min(12)
         .pad(1)
         .height(600)
         .width(500)
-        .barSize(35);
+        .barSize(35)
+        .fill(d=>d.primary === vis.curWord || d.secondary === vis.curWord ? "#ff7751" : "#836cd4");
 
     g.call(bp);
 
@@ -89,7 +99,7 @@ TertiaryView.prototype.updateVis = function() {
         .on("mouseout",mouseout);
 
     g.selectAll(".mainBars").append("text").attr("class","label")
-        .attr("x",d=>(d.part==="primary"? -30: 30))
+        .attr("x",d=>(d.part==="primary"? -30: 20))
         .attr("y",d=>+6)
         .text(d=>d.key)
         .attr("text-anchor",d=>(d.part==="primary"? "end": "start"));

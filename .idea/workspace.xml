@@ -4,9 +4,11 @@
     <list default="true" id="fa7abf82-3121-4e03-80a0-5ac10ade9e2b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/primaryView.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/primaryView.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/tertiaryView.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/tertiaryView.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/secondaryView.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/secondaryView.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/tertiaryView.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/tertiaryView.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,46 +24,48 @@
     <session id="1039749704">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="4" />
+          <entry key="css" value="5" />
           <entry key="html" value="3" />
-          <entry key="js" value="5" />
-          <entry key="json" value="4" />
+          <entry key="js" value="9" />
+          <entry key="json" value="11" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
+          <entry key="CSS" value="5" />
           <entry key="HTML" value="3" />
-          <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="187" />
-          <entry key="html" value="1314" />
-          <entry key="js" value="8733" />
-          <entry key="json" value="509" />
+          <entry key="css" value="1068" />
+          <entry key="html" value="3254" />
+          <entry key="js" value="16933" />
+          <entry key="json" value="886" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="187" />
-          <entry key="HTML" value="1314" />
-          <entry key="JSON" value="509" />
-          <entry key="JavaScript" value="8733" />
+          <entry key="CSS" value="1068" />
+          <entry key="HTML" value="3254" />
+          <entry key="JSON" value="886" />
+          <entry key="JavaScript" value="16933" />
         </counts>
       </usages-collector>
     </session>
@@ -73,29 +77,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/tertiaryView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+            <state relative-caret-position="229">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -103,26 +89,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="632">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testing.html">
+        <entry file="file://$PROJECT_DIR$/js/secondaryView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="116" column="30" lean-forward="true" selection-start-line="116" selection-start-column="30" selection-end-line="118" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/tertiaryView.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="2354" column="21" selection-start-line="2354" selection-start-column="14" selection-end-line="2354" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -139,20 +116,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>english-document</find>
-      <find>after</find>
-      <find>ocason</find>
-      <find>sun</find>
-      <find>ocaso</find>
-      <find>/</find>
-      <find>&lt;</find>
       <find>invictus</find>
       <find>&gt;</find>
       <find>graph</find>
       <find>dat</find>
       <find>nodes</find>
       <find>englishTo</find>
-      <find>la</find>
       <find>el&quot;</find>
       <find>la&quot;</find>
       <find>&quot;the&quot;</find>
@@ -165,8 +134,18 @@
       <find>englishToSpan</find>
       <find>&quot;de la&quot;</find>
       <find>&quot;la&quot;</find>
-      <find>&quot;their&quot;</find>
       <find>viz</find>
+      <find>the</find>
+      <find>el</find>
+      <find>la</find>
+      <find>en</find>
+      <find>&quot;their&quot;</find>
+      <find>filteredSentenceData</find>
+      <find>englishCurWords</find>
+      <find>vis.curWord</find>
+      <find>no</find>
+      <find>no&quot;</find>
+      <find>englishCur</find>
     </findStrings>
     <replaceStrings>
       <replace>sets</replace>
@@ -179,17 +158,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/primaryView.json" />
         <option value="$PROJECT_DIR$/js/test.html" />
         <option value="$PROJECT_DIR$/data/secondaryView.json" />
-        <option value="$PROJECT_DIR$/js/secondaryView.js" />
         <option value="$PROJECT_DIR$/js/viz.v1.js" />
+        <option value="$PROJECT_DIR$/testing.html" />
+        <option value="$PROJECT_DIR$/data/primaryView.json" />
         <option value="$PROJECT_DIR$/data/tertiaryView.json" />
+        <option value="$PROJECT_DIR$/js/tertiaryView.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/secondaryView.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/testing.html" />
-        <option value="$PROJECT_DIR$/js/tertiaryView.js" />
       </list>
     </option>
   </component>
@@ -277,18 +256,20 @@
       <workItem from="1586900545088" duration="11210000" />
       <workItem from="1587014414773" duration="4635000" />
       <workItem from="1587084345342" duration="4135000" />
-      <workItem from="1587159821599" duration="8162000" />
+      <workItem from="1587159821599" duration="27846000" />
+      <workItem from="1587320260212" duration="646000" />
+      <workItem from="1587346671241" duration="4348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32056000" />
+    <option name="totallyTimeSpent" value="56734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-144" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21800947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19010006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -317,83 +298,65 @@
     <entry file="file://$PROJECT_DIR$/js/queue.v1.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/test.html" />
+    <entry file="file://$PROJECT_DIR$/js/viz.v1.js" />
+    <entry file="file://$PROJECT_DIR$/testing.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/primaryView.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/viz.v1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/secondaryView.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="937">
-          <caret line="7091" column="3" selection-start-line="7091" selection-start-column="3" selection-end-line="7091" selection-end-column="3" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/primaryView.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="75" column="16" lean-forward="true" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/tertiaryView.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="2354" column="21" selection-start-line="2354" selection-start-column="14" selection-end-line="2354" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/secondaryView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="116" column="30" lean-forward="true" selection-start-line="116" selection-start-column="30" selection-end-line="118" selection-end-column="29" />
+        <state relative-caret-position="295">
+          <caret line="1836" column="22" selection-start-line="1836" selection-start-column="19" selection-end-line="1836" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/tertiaryView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="77" column="25" lean-forward="true" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        <state relative-caret-position="285">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="74" column="48" lean-forward="true" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/secondaryView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
     </entry>
