@@ -38,7 +38,6 @@ TertiaryView.prototype.wrangleData = function(curWord, curLanguage) {
             return w.word === currentWord && w.language === currentLanguage;
         });
 
-        console.log(currentWord + ", " + currentLanguage);
 
         //should only have 1 match in the data, so examine its translations
         //see if word is already visited by checking if in the visited array or if it is but from the wrong language
@@ -70,7 +69,6 @@ TertiaryView.prototype.wrangleData = function(curWord, curLanguage) {
         }
     });
 
-    console.log(vis.bpData);
     vis.updateVis();
 
 }
